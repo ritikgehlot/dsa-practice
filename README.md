@@ -6,11 +6,13 @@
 | ------- |
 | [0001-two-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritikgehlot/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 ## Linked List
 |  |
 | ------- |
@@ -68,4 +70,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 <!---LeetCode Topics End-->
