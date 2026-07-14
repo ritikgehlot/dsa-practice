@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/ritikgehlot/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0009-palindrome-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ritikgehlot/dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ritikgehlot/dsa-practice/tree/master/0013-roman-to-integer) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Recursion
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ritikgehlot/dsa-practice/tree/master/0010-regular-expression-matching) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sorting
 |  |
 | ------- |
@@ -99,4 +102,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
