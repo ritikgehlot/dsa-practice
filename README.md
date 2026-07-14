@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ritikgehlot/dsa-practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0015-3sum) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Hash Table
@@ -80,6 +81,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/ritikgehlot/dsa-practice/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0015-3sum) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 ## Enumeration
 |  |
