@@ -65,6 +65,7 @@
 | [0014-longest-common-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/ritikgehlot/dsa-practice/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0022-generate-parentheses) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sorting
 |  |
@@ -128,6 +130,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0022-generate-parentheses) |
 ## Stack
 |  |
 | ------- |
