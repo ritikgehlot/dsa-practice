@@ -41,6 +41,7 @@
 | [0009-palindrome-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ritikgehlot/dsa-practice/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ritikgehlot/dsa-practice/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/0029-divide-two-integers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
@@ -159,4 +160,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
