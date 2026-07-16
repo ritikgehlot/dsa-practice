@@ -19,6 +19,7 @@
 | [0035-search-insert-position](https://github.com/ritikgehlot/dsa-practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ritikgehlot/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ritikgehlot/dsa-practice/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/ritikgehlot/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/ritikgehlot/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -175,6 +176,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ritikgehlot/dsa-practice/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0039-combination-sum) |
 ## Stack
 |  |
 | ------- |
