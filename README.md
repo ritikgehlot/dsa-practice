@@ -19,6 +19,7 @@
 | [0035-search-insert-position](https://github.com/ritikgehlot/dsa-practice/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/ritikgehlot/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ritikgehlot/dsa-practice/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ritikgehlot/dsa-practice/tree/master/0041-first-missing-positive) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -33,6 +34,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/ritikgehlot/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ritikgehlot/dsa-practice/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/ritikgehlot/dsa-practice/tree/master/0041-first-missing-positive) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 ## Linked List
 |  |
