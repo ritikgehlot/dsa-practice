@@ -27,6 +27,7 @@
 | [0046-permutations](https://github.com/ritikgehlot/dsa-practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ritikgehlot/dsa-practice/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ritikgehlot/dsa-practice/tree/master/0051-n-queens) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -201,6 +202,7 @@
 | [0039-combination-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ritikgehlot/dsa-practice/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/ritikgehlot/dsa-practice/tree/master/0051-n-queens) |
 ## Stack
 |  |
 | ------- |
