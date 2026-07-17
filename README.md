@@ -26,6 +26,7 @@
 | [0045-jump-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ritikgehlot/dsa-practice/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/ritikgehlot/dsa-practice/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -42,6 +43,7 @@
 | [0036-valid-sudoku](https://github.com/ritikgehlot/dsa-practice/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ritikgehlot/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ritikgehlot/dsa-practice/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/ritikgehlot/dsa-practice/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
@@ -111,6 +113,7 @@
 | [0038-count-and-say](https://github.com/ritikgehlot/dsa-practice/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/ritikgehlot/dsa-practice/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/ritikgehlot/dsa-practice/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -165,6 +168,7 @@
 | [0015-3sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ritikgehlot/dsa-practice/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/ritikgehlot/dsa-practice/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
