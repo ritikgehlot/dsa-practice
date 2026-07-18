@@ -28,6 +28,7 @@
 | [0048-rotate-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ritikgehlot/dsa-practice/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/ritikgehlot/dsa-practice/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0055-jump-game) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ritikgehlot/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0053-maximum-subarray) |
 ## String
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [0042-trapping-rain-water](https://github.com/ritikgehlot/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/ritikgehlot/dsa-practice/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0055-jump-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sorting
