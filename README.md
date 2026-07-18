@@ -31,6 +31,7 @@
 | [0053-maximum-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/ritikgehlot/dsa-practice/tree/master/0057-insert-interval) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
