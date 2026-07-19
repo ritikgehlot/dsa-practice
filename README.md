@@ -269,4 +269,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
+## Concurrency
+|  |
+| ------- |
+| [1114-print-in-order](https://github.com/ritikgehlot/dsa-practice/tree/master/1114-print-in-order) |
 <!---LeetCode Topics End-->
