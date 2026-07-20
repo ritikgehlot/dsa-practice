@@ -36,6 +36,7 @@
 | [0063-unique-paths-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ritikgehlot/dsa-practice/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0078-subsets) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -229,6 +230,7 @@
 | [0046-permutations](https://github.com/ritikgehlot/dsa-practice/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ritikgehlot/dsa-practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0078-subsets) |
 ## Stack
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0078-subsets) |
 ## Simulation
 |  |
 | ------- |
