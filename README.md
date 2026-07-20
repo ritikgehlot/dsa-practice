@@ -33,6 +33,7 @@
 | [0055-jump-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/ritikgehlot/dsa-practice/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -178,6 +179,7 @@
 | [0045-jump-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0055-jump-game) |
+| [0063-unique-paths-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sorting
 |  |
@@ -260,6 +262,7 @@
 | [0048-rotate-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 ## Monotonic Stack
 |  |
