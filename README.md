@@ -37,6 +37,7 @@
 | [0074-search-a-2d-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ritikgehlot/dsa-practice/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ritikgehlot/dsa-practice/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -134,6 +135,7 @@
 | [0044-wildcard-matching](https://github.com/ritikgehlot/dsa-practice/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ritikgehlot/dsa-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/ritikgehlot/dsa-practice/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,6 +144,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ritikgehlot/dsa-practice/tree/master/0079-word-search) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -231,6 +234,7 @@
 | [0051-n-queens](https://github.com/ritikgehlot/dsa-practice/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ritikgehlot/dsa-practice/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -272,6 +276,7 @@
 | [0059-spiral-matrix-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/ritikgehlot/dsa-practice/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 ## Monotonic Stack
 |  |
