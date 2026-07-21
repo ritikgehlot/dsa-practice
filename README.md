@@ -39,6 +39,7 @@
 | [0078-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ritikgehlot/dsa-practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -107,6 +108,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ritikgehlot/dsa-practice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
