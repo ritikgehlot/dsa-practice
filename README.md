@@ -41,6 +41,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ritikgehlot/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ritikgehlot/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -194,6 +195,7 @@
 | [0053-maximum-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0063-unique-paths-ii) |
+| [0085-maximal-rectangle](https://github.com/ritikgehlot/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Sorting
 |  |
@@ -249,6 +251,7 @@
 | [0032-longest-valid-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ritikgehlot/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ritikgehlot/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ritikgehlot/dsa-practice/tree/master/0085-maximal-rectangle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -285,12 +288,14 @@
 | [0063-unique-paths-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ritikgehlot/dsa-practice/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/ritikgehlot/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ritikgehlot/dsa-practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ritikgehlot/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/ritikgehlot/dsa-practice/tree/master/0085-maximal-rectangle) |
 ## Combinatorics
 |  |
 | ------- |
