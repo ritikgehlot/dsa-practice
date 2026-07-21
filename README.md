@@ -137,6 +137,7 @@
 | [0049-group-anagrams](https://github.com/ritikgehlot/dsa-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/ritikgehlot/dsa-practice/tree/master/0079-word-search) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/ritikgehlot/dsa-practice/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
