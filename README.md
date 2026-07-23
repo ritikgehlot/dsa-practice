@@ -156,6 +156,7 @@
 | [0049-group-anagrams](https://github.com/ritikgehlot/dsa-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/ritikgehlot/dsa-practice/tree/master/0079-word-search) |
+| [0087-scramble-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0087-scramble-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
@@ -216,6 +217,7 @@
 | [0055-jump-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/ritikgehlot/dsa-practice/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0087-scramble-string) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
