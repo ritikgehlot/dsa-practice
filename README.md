@@ -75,6 +75,7 @@
 | [0037-sudoku-solver](https://github.com/ritikgehlot/dsa-practice/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/ritikgehlot/dsa-practice/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ritikgehlot/dsa-practice/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ritikgehlot/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ritikgehlot/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -169,6 +170,7 @@
 | [0058-length-of-last-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/ritikgehlot/dsa-practice/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/ritikgehlot/dsa-practice/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ritikgehlot/dsa-practice/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0087-scramble-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -178,6 +180,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ritikgehlot/dsa-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/0076-minimum-window-substring) |
 ## Depth-First Search
 |  |
 | ------- |
