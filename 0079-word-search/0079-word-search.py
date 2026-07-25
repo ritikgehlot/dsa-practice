@@ -1,33 +1,32 @@
 class Solution:
     def exist(self, board: List[List[str]], word: str) -> bool:
-        m, n = len(board), len(board[0])
+        rows, cols = len(board), len(board[0])
 
-        def dfs(i, j, k):
-            if k == len(word):
+        def dfs(r, c, i):
+            if i == len(word):
                 return True
 
-            if i < 0 or i >= m or j < 0 or j >= n:
+            if (r < 0 or r >= rows or
+                c < 0 or c >= cols or
+                board[r][c] != word[i]):
                 return False
 
-            if board[i][j] != word[k]:
-                return False
-
-            temp = board[i][j]
-            board[i][j] = "#"
+            temp = board[r][c]
+            board[r][c] = "#"
 
             found = (
-                dfs(i + 1, j, k + 1) or
-                dfs(i - 1, j, k + 1) or
-                dfs(i, j + 1, k + 1) or
-                dfs(i, j - 1, k + 1)
+                dfs(r + 1, c, i + 1) or
+                dfs(r - 1, c, i + 1) or
+                dfs(r, c + 1, i + 1) or
+                dfs(r, c - 1, i + 1)
             )
 
-            board[i][j] = temp
+            board[r][c] = temp
             return found
 
-        for i in range(m):
-            for j in range(n):
-                if dfs(i, j, 0):
+        for r in range(rows):
+            for c in range(cols):
+                if dfs(r, c, 0):
                     return True
 
         return False
