@@ -168,6 +168,7 @@
 | [0049-group-anagrams](https://github.com/ritikgehlot/dsa-practice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/ritikgehlot/dsa-practice/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/ritikgehlot/dsa-practice/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/ritikgehlot/dsa-practice/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0087-scramble-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -229,6 +230,7 @@
 | [0053-maximum-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/ritikgehlot/dsa-practice/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ritikgehlot/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/ritikgehlot/dsa-practice/tree/master/0118-pascals-triangle) |
