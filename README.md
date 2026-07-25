@@ -174,6 +174,7 @@
 | [0079-word-search](https://github.com/ritikgehlot/dsa-practice/tree/master/0079-word-search) |
 | [0087-scramble-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/ritikgehlot/dsa-practice/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/ritikgehlot/dsa-practice/tree/master/0093-restore-ip-addresses) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
@@ -299,6 +300,7 @@
 | [0078-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ritikgehlot/dsa-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/ritikgehlot/dsa-practice/tree/master/0093-restore-ip-addresses) |
 ## Stack
 |  |
 | ------- |
