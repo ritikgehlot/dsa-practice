@@ -182,6 +182,7 @@
 | [0115-distinct-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ritikgehlot/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/ritikgehlot/dsa-practice/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/ritikgehlot/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
@@ -253,6 +254,7 @@
 | [0118-pascals-triangle](https://github.com/ritikgehlot/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/ritikgehlot/dsa-practice/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/ritikgehlot/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -313,6 +315,7 @@
 | [0079-word-search](https://github.com/ritikgehlot/dsa-practice/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/ritikgehlot/dsa-practice/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/ritikgehlot/dsa-practice/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
 | ------- |
