@@ -178,6 +178,7 @@
 | [0091-decode-ways](https://github.com/ritikgehlot/dsa-practice/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/ritikgehlot/dsa-practice/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0115-distinct-subsequences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sliding Window
@@ -243,6 +244,7 @@
 | [0087-scramble-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/ritikgehlot/dsa-practice/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0097-interleaving-string) |
+| [0115-distinct-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/ritikgehlot/dsa-practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/ritikgehlot/dsa-practice/tree/master/0120-triangle) |
