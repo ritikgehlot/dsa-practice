@@ -83,6 +83,7 @@
 | [0126-word-ladder-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ritikgehlot/dsa-practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/ritikgehlot/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
@@ -97,6 +98,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ritikgehlot/dsa-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/ritikgehlot/dsa-practice/tree/master/0086-partition-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/ritikgehlot/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 ## Math
 |  |
 | ------- |
