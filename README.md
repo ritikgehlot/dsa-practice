@@ -88,6 +88,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ritikgehlot/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ritikgehlot/dsa-practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0140-word-break-ii) |
+| [0141-linked-list-cycle](https://github.com/ritikgehlot/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
@@ -103,6 +104,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ritikgehlot/dsa-practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/ritikgehlot/dsa-practice/tree/master/0086-partition-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/ritikgehlot/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
+| [0141-linked-list-cycle](https://github.com/ritikgehlot/dsa-practice/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -247,6 +249,7 @@
 | [0086-partition-list](https://github.com/ritikgehlot/dsa-practice/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ritikgehlot/dsa-practice/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ritikgehlot/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
