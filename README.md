@@ -90,6 +90,7 @@
 | [0140-word-break-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/ritikgehlot/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ritikgehlot/dsa-practice/tree/master/0146-lru-cache) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 ## Linked List
@@ -107,6 +108,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ritikgehlot/dsa-practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ritikgehlot/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ritikgehlot/dsa-practice/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -460,4 +462,12 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ritikgehlot/dsa-practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ritikgehlot/dsa-practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
