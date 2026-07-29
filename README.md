@@ -100,6 +100,7 @@
 | [0187-repeated-dna-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -220,6 +221,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/ritikgehlot/dsa-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -346,6 +348,7 @@
 | [0014-longest-common-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/ritikgehlot/dsa-practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0140-word-break-ii) |
+| [0208-implement-trie-prefix-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
 ## Number Theory
 |  |
 | ------- |
@@ -494,6 +497,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ritikgehlot/dsa-practice/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
