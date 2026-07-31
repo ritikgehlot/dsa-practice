@@ -58,6 +58,7 @@
 | [0217-contains-duplicate](https://github.com/ritikgehlot/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -109,6 +110,7 @@
 | [0229-majority-element-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ritikgehlot/dsa-practice/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -147,6 +149,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/ritikgehlot/dsa-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -179,6 +182,7 @@
 | [0035-search-insert-position](https://github.com/ritikgehlot/dsa-practice/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -340,6 +344,7 @@
 | [0217-contains-duplicate](https://github.com/ritikgehlot/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ritikgehlot/dsa-practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -428,6 +433,7 @@
 | [0078-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
