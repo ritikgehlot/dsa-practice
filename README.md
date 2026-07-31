@@ -56,6 +56,7 @@
 | [0149-max-points-on-a-line](https://github.com/ritikgehlot/dsa-practice/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/ritikgehlot/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ritikgehlot/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -103,6 +104,7 @@
 | [0205-isomorphic-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ritikgehlot/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -239,6 +241,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0187-repeated-dna-sequences) |
+| [0219-contains-duplicate-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 ## Depth-First Search
 |  |
 | ------- |
