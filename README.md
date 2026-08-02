@@ -142,6 +142,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/ritikgehlot/dsa-practice/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/ritikgehlot/dsa-practice/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/ritikgehlot/dsa-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ritikgehlot/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 ## Math
 |  |
@@ -212,6 +213,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ritikgehlot/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ritikgehlot/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/ritikgehlot/dsa-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ritikgehlot/dsa-practice/tree/master/0169-majority-element) |
 ## String
 |  |
@@ -316,6 +318,7 @@
 | [0125-valid-palindrome](https://github.com/ritikgehlot/dsa-practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ritikgehlot/dsa-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ritikgehlot/dsa-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ritikgehlot/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -365,6 +368,7 @@
 | [0075-sort-colors](https://github.com/ritikgehlot/dsa-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/ritikgehlot/dsa-practice/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/ritikgehlot/dsa-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ritikgehlot/dsa-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ritikgehlot/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0229-majority-element-ii) |
@@ -450,6 +454,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ritikgehlot/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ritikgehlot/dsa-practice/tree/master/0148-sort-list) |
 ## String Matching
 |  |
 | ------- |
