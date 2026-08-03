@@ -60,6 +60,7 @@
 | [0179-largest-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ritikgehlot/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
@@ -221,6 +222,7 @@
 | [0148-sort-list](https://github.com/ritikgehlot/dsa-practice/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ritikgehlot/dsa-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0218-the-skyline-problem) |
 ## String
 |  |
 | ------- |
@@ -382,6 +384,7 @@
 | [0179-largest-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ritikgehlot/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0218-the-skyline-problem) |
 | [0229-majority-element-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ritikgehlot/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
@@ -461,6 +464,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ritikgehlot/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -556,6 +560,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0218-the-skyline-problem) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search Tree
 |  |
@@ -606,6 +611,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0218-the-skyline-problem) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ritikgehlot/dsa-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Bucket Sort
 |  |
@@ -623,4 +629,12 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
