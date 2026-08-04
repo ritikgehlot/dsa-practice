@@ -168,6 +168,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/ritikgehlot/dsa-practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/ritikgehlot/dsa-practice/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/ritikgehlot/dsa-practice/tree/master/0224-basic-calculator) |
 | [0264-ugly-number-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
@@ -196,6 +197,7 @@
 | [0044-wildcard-matching](https://github.com/ritikgehlot/dsa-practice/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ritikgehlot/dsa-practice/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0060-permutation-sequence) |
+| [0224-basic-calculator](https://github.com/ritikgehlot/dsa-practice/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
@@ -268,6 +270,7 @@
 | [0187-repeated-dna-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/ritikgehlot/dsa-practice/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/ritikgehlot/dsa-practice/tree/master/0242-valid-anagram) |
 | [0336-palindrome-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/0336-palindrome-pairs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -463,6 +466,7 @@
 | [0071-simplify-path](https://github.com/ritikgehlot/dsa-practice/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ritikgehlot/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ritikgehlot/dsa-practice/tree/master/0085-maximal-rectangle) |
+| [0224-basic-calculator](https://github.com/ritikgehlot/dsa-practice/tree/master/0224-basic-calculator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
