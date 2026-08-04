@@ -170,6 +170,7 @@
 | [0223-rectangle-area](https://github.com/ritikgehlot/dsa-practice/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/ritikgehlot/dsa-practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/ritikgehlot/dsa-practice/tree/master/0231-power-of-two) |
 | [0264-ugly-number-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
@@ -199,6 +200,7 @@
 | [0050-powx-n](https://github.com/ritikgehlot/dsa-practice/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/ritikgehlot/dsa-practice/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/ritikgehlot/dsa-practice/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 ## Binary Search
 |  |
@@ -494,6 +496,7 @@
 | [0078-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/ritikgehlot/dsa-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
