@@ -64,6 +64,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/ritikgehlot/dsa-practice/tree/master/0274-h-index) |
 | [0336-palindrome-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -401,6 +402,7 @@
 | [0229-majority-element-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/ritikgehlot/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/ritikgehlot/dsa-practice/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -591,6 +593,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/ritikgehlot/dsa-practice/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
