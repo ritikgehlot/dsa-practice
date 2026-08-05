@@ -72,6 +72,7 @@
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
+| [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1406-stone-game-iii) |
@@ -233,6 +234,7 @@
 | [0169-majority-element](https://github.com/ritikgehlot/dsa-practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0218-the-skyline-problem) |
+| [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 ## String
 |  |
 | ------- |
@@ -408,6 +410,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -487,12 +490,14 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0264-ugly-number-ii) |
+| [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ritikgehlot/dsa-practice/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ritikgehlot/dsa-practice/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 ## String Matching
 |  |
 | ------- |
@@ -598,6 +603,7 @@
 | ------- |
 | [0274-h-index](https://github.com/ritikgehlot/dsa-practice/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
+| [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
@@ -642,10 +648,12 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ritikgehlot/dsa-practice/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ritikgehlot/dsa-practice/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
