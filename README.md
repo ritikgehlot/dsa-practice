@@ -297,6 +297,7 @@
 | [0079-word-search](https://github.com/ritikgehlot/dsa-practice/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/0133-clone-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -304,6 +305,7 @@
 | [0127-word-ladder](https://github.com/ritikgehlot/dsa-practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/0133-clone-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -314,6 +316,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/0133-clone-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
+| [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Two Pointers
 |  |
