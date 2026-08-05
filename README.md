@@ -73,6 +73,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1406-stone-game-iii) |
@@ -411,6 +412,7 @@
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -604,6 +606,7 @@
 | [0274-h-index](https://github.com/ritikgehlot/dsa-practice/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Design
 |  |
@@ -670,4 +673,8 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0218-the-skyline-problem) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
