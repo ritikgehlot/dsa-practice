@@ -351,6 +351,7 @@
 | [0148-sort-list](https://github.com/ritikgehlot/dsa-practice/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ritikgehlot/dsa-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0202-happy-number) |
+| [0295-find-median-from-data-stream](https://github.com/ritikgehlot/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -411,6 +412,7 @@
 | [0242-valid-anagram](https://github.com/ritikgehlot/dsa-practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ritikgehlot/dsa-practice/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/ritikgehlot/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
@@ -497,6 +499,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0264-ugly-number-ii) |
+| [0295-find-median-from-data-stream](https://github.com/ritikgehlot/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
@@ -618,6 +621,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/ritikgehlot/dsa-practice/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/ritikgehlot/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ritikgehlot/dsa-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Doubly-Linked List
 |  |
@@ -646,6 +650,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/ritikgehlot/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ritikgehlot/dsa-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Ordered Set
 |  |
