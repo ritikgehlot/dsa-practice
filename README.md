@@ -582,6 +582,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/ritikgehlot/dsa-practice/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/ritikgehlot/dsa-practice/tree/master/0176-second-highest-salary) |
 | [0262-trips-and-users](https://github.com/ritikgehlot/dsa-practice/tree/master/0262-trips-and-users) |
 ## Tree
 |  |
