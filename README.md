@@ -591,6 +591,7 @@
 | [0177-nth-highest-salary](https://github.com/ritikgehlot/dsa-practice/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/ritikgehlot/dsa-practice/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0180-consecutive-numbers) |
+| [0182-duplicate-emails](https://github.com/ritikgehlot/dsa-practice/tree/master/0182-duplicate-emails) |
 | [0262-trips-and-users](https://github.com/ritikgehlot/dsa-practice/tree/master/0262-trips-and-users) |
 ## Tree
 |  |
