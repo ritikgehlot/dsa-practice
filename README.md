@@ -75,6 +75,7 @@
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
+| [1250-check-if-it-is-a-good-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1406-stone-game-iii) |
@@ -181,6 +182,7 @@
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
+| [1250-check-if-it-is-a-good-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1406-stone-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -460,6 +462,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -703,4 +706,20 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
