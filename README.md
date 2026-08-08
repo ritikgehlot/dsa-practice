@@ -603,6 +603,7 @@
 | [0184-department-highest-salary](https://github.com/ritikgehlot/dsa-practice/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/ritikgehlot/dsa-practice/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/ritikgehlot/dsa-practice/tree/master/0262-trips-and-users) |
+| [0585-investments-in-2016](https://github.com/ritikgehlot/dsa-practice/tree/master/0585-investments-in-2016) |
 ## Tree
 |  |
 | ------- |
