@@ -73,6 +73,7 @@
 | [0229-majority-element-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/ritikgehlot/dsa-practice/tree/master/0274-h-index) |
+| [0321-create-maximum-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0321-create-maximum-number) |
 | [0336-palindrome-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -373,6 +374,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikgehlot/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0202-happy-number) |
 | [0295-find-median-from-data-stream](https://github.com/ritikgehlot/dsa-practice/tree/master/0295-find-median-from-data-stream) |
+| [0321-create-maximum-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -472,6 +474,7 @@
 | [0135-candy](https://github.com/ritikgehlot/dsa-practice/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/ritikgehlot/dsa-practice/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0321-create-maximum-number) |
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -528,6 +531,7 @@
 | [0224-basic-calculator](https://github.com/ritikgehlot/dsa-practice/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/ritikgehlot/dsa-practice/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0321-create-maximum-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -588,6 +592,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/ritikgehlot/dsa-practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/ritikgehlot/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/ritikgehlot/dsa-practice/tree/master/0316-remove-duplicate-letters) |
+| [0321-create-maximum-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0321-create-maximum-number) |
 ## Combinatorics
 |  |
 | ------- |
