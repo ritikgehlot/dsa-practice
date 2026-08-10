@@ -53,6 +53,7 @@
 | [0119-pascals-triangle-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/ritikgehlot/dsa-practice/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/ritikgehlot/dsa-practice/tree/master/0134-gas-station) |
 | [0139-word-break](https://github.com/ritikgehlot/dsa-practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/ritikgehlot/dsa-practice/tree/master/0149-max-points-on-a-line) |
@@ -465,6 +466,7 @@
 | [0045-jump-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/ritikgehlot/dsa-practice/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
