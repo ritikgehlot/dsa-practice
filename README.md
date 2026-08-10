@@ -76,6 +76,7 @@
 | [0321-create-maximum-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0336-palindrome-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -481,6 +482,7 @@
 | [0321-create-maximum-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0330-patching-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -785,4 +787,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/1510-stone-game-iv) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
