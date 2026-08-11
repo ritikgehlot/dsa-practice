@@ -68,6 +68,7 @@
 | [0174-dungeon-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0198-house-robber](https://github.com/ritikgehlot/dsa-practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ritikgehlot/dsa-practice/tree/master/0217-contains-duplicate) |
 | [0218-the-skyline-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0218-the-skyline-problem) |
@@ -418,6 +419,7 @@
 | [0152-maximum-product-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0198-house-robber](https://github.com/ritikgehlot/dsa-practice/tree/master/0198-house-robber) |
 | [0264-ugly-number-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
