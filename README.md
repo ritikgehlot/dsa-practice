@@ -58,6 +58,7 @@
 | [0139-word-break](https://github.com/ritikgehlot/dsa-practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/ritikgehlot/dsa-practice/tree/master/0149-max-points-on-a-line) |
+| [0152-maximum-product-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ritikgehlot/dsa-practice/tree/master/0162-find-peak-element) |
@@ -412,6 +413,7 @@
 | [0131-palindrome-partitioning](https://github.com/ritikgehlot/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/ritikgehlot/dsa-practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0140-word-break-ii) |
+| [0152-maximum-product-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0264-ugly-number-ii) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
