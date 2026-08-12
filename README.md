@@ -82,6 +82,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0321-create-maximum-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0321-create-maximum-number) |
 | [0324-wiggle-sort-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0324-wiggle-sort-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0330-patching-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0336-palindrome-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/0336-palindrome-pairs) |
@@ -344,6 +345,7 @@
 | ------- |
 | [0079-word-search](https://github.com/ritikgehlot/dsa-practice/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/0133-clone-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -352,6 +354,7 @@
 | [0126-word-ladder-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ritikgehlot/dsa-practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/0133-clone-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -363,6 +366,7 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/0133-clone-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -434,6 +438,7 @@
 | [0233-number-of-digit-one](https://github.com/ritikgehlot/dsa-practice/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
@@ -618,6 +623,7 @@
 | [0085-maximal-rectangle](https://github.com/ritikgehlot/dsa-practice/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/ritikgehlot/dsa-practice/tree/master/0221-maximal-square) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 ## Monotonic Stack
 |  |
@@ -695,6 +701,7 @@
 | ------- |
 | [0139-word-break](https://github.com/ritikgehlot/dsa-practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0140-word-break-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -818,4 +825,12 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0334-increasing-triplet-subsequence) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
