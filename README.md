@@ -89,6 +89,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0403-frog-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -259,6 +260,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ritikgehlot/dsa-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0410-split-array-largest-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -444,6 +446,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/ritikgehlot/dsa-practice/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
@@ -518,6 +521,7 @@
 | [0330-patching-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/ritikgehlot/dsa-practice/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -657,6 +661,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
