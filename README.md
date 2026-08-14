@@ -93,6 +93,7 @@
 | [0413-arithmetic-slices](https://github.com/ritikgehlot/dsa-practice/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
+| [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
@@ -456,6 +457,7 @@
 | [0413-arithmetic-slices](https://github.com/ritikgehlot/dsa-practice/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
+| [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1406-stone-game-iii) |
@@ -573,6 +575,7 @@
 | [0126-word-ladder-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/ritikgehlot/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0140-word-break-ii) |
+| [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -617,6 +620,7 @@
 | [0231-power-of-two](https://github.com/ritikgehlot/dsa-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
 | [0397-integer-replacement](https://github.com/ritikgehlot/dsa-practice/tree/master/0397-integer-replacement) |
+| [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -864,4 +868,8 @@
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
