@@ -366,6 +366,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ritikgehlot/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ritikgehlot/dsa-practice/tree/master/0802-find-eventual-safe-states) |
+| [0814-binary-tree-pruning](https://github.com/ritikgehlot/dsa-practice/tree/master/0814-binary-tree-pruning) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -729,12 +730,14 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ritikgehlot/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ritikgehlot/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/ritikgehlot/dsa-practice/tree/master/0814-binary-tree-pruning) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ritikgehlot/dsa-practice/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ritikgehlot/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0814-binary-tree-pruning](https://github.com/ritikgehlot/dsa-practice/tree/master/0814-binary-tree-pruning) |
 ## Segment Tree
 |  |
 | ------- |
