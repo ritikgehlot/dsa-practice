@@ -364,6 +364,7 @@
 | [0133-clone-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/ritikgehlot/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ritikgehlot/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
@@ -376,6 +377,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/ritikgehlot/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ritikgehlot/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
@@ -390,6 +392,7 @@
 | [0133-clone-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0797-all-paths-from-source-to-target](https://github.com/ritikgehlot/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ritikgehlot/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
@@ -593,6 +596,7 @@
 | [0131-palindrome-partitioning](https://github.com/ritikgehlot/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0140-word-break-ii) |
 | [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
+| [0797-all-paths-from-source-to-target](https://github.com/ritikgehlot/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -882,6 +886,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0797-all-paths-from-source-to-target](https://github.com/ritikgehlot/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 ## Knapsack Problem
 |  |
 | ------- |
