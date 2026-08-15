@@ -364,6 +364,7 @@
 | [0133-clone-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/ritikgehlot/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -375,6 +376,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/ritikgehlot/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -388,6 +390,7 @@
 | [0133-clone-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0802-find-eventual-safe-states](https://github.com/ritikgehlot/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -874,6 +877,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/ritikgehlot/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -894,4 +898,12 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/ritikgehlot/dsa-practice/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/ritikgehlot/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
