@@ -369,6 +369,7 @@
 | [0802-find-eventual-safe-states](https://github.com/ritikgehlot/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [0814-binary-tree-pruning](https://github.com/ritikgehlot/dsa-practice/tree/master/0814-binary-tree-pruning) |
 | [0827-making-a-large-island](https://github.com/ritikgehlot/dsa-practice/tree/master/0827-making-a-large-island) |
+| [0834-sum-of-distances-in-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0834-sum-of-distances-in-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -399,6 +400,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ritikgehlot/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ritikgehlot/dsa-practice/tree/master/0802-find-eventual-safe-states) |
+| [0834-sum-of-distances-in-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0834-sum-of-distances-in-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -483,6 +485,7 @@
 | [0552-student-attendance-record-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/ritikgehlot/dsa-practice/tree/master/0553-optimal-division) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0834-sum-of-distances-in-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1406-stone-game-iii) |
@@ -736,6 +739,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ritikgehlot/dsa-practice/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/ritikgehlot/dsa-practice/tree/master/0814-binary-tree-pruning) |
+| [0834-sum-of-distances-in-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0834-sum-of-distances-in-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -919,4 +923,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/ritikgehlot/dsa-practice/tree/master/0802-find-eventual-safe-states) |
+## DP on Trees
+|  |
+| ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0834-sum-of-distances-in-tree) |
 <!---LeetCode Topics End-->
