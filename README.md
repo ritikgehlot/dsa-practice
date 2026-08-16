@@ -97,6 +97,7 @@
 | [0475-heaters](https://github.com/ritikgehlot/dsa-practice/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0502-ipo](https://github.com/ritikgehlot/dsa-practice/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/ritikgehlot/dsa-practice/tree/master/0506-relative-ranks) |
 | [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/ritikgehlot/dsa-practice/tree/master/0546-remove-boxes) |
@@ -542,6 +543,7 @@
 | [0472-concatenated-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/ritikgehlot/dsa-practice/tree/master/0475-heaters) |
 | [0502-ipo](https://github.com/ritikgehlot/dsa-practice/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/ritikgehlot/dsa-practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
@@ -650,6 +652,7 @@
 | [0264-ugly-number-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/ritikgehlot/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/ritikgehlot/dsa-practice/tree/master/0502-ipo) |
+| [0506-relative-ranks](https://github.com/ritikgehlot/dsa-practice/tree/master/0506-relative-ranks) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
