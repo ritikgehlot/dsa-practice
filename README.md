@@ -300,6 +300,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0218-the-skyline-problem) |
 | [0324-wiggle-sort-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0324-wiggle-sort-ii) |
+| [0761-special-binary-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 ## String
 |  |
@@ -349,6 +350,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ritikgehlot/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/0336-palindrome-pairs) |
 | [0472-concatenated-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0472-concatenated-words) |
+| [0761-special-binary-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0761-special-binary-string) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -551,6 +553,7 @@
 | [0506-relative-ranks](https://github.com/ritikgehlot/dsa-practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0761-special-binary-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
