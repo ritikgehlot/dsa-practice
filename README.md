@@ -361,6 +361,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ritikgehlot/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/0336-palindrome-pairs) |
 | [0472-concatenated-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0472-concatenated-words) |
+| [0514-freedom-trail](https://github.com/ritikgehlot/dsa-practice/tree/master/0514-freedom-trail) |
 | [0761-special-binary-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0767-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
@@ -394,6 +395,7 @@
 | [0133-clone-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0472-concatenated-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0472-concatenated-words) |
+| [0514-freedom-trail](https://github.com/ritikgehlot/dsa-practice/tree/master/0514-freedom-trail) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ritikgehlot/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/ritikgehlot/dsa-practice/tree/master/0802-find-eventual-safe-states) |
@@ -410,6 +412,7 @@
 | [0127-word-ladder](https://github.com/ritikgehlot/dsa-practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0514-freedom-trail](https://github.com/ritikgehlot/dsa-practice/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ritikgehlot/dsa-practice/tree/master/0797-all-paths-from-source-to-target) |
@@ -520,6 +523,7 @@
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0509-fibonacci-number) |
+| [0514-freedom-trail](https://github.com/ritikgehlot/dsa-practice/tree/master/0514-freedom-trail) |
 | [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/ritikgehlot/dsa-practice/tree/master/0546-remove-boxes) |
