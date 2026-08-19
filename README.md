@@ -362,6 +362,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ritikgehlot/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/0336-palindrome-pairs) |
 | [0472-concatenated-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0472-concatenated-words) |
+| [0488-zuma-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/ritikgehlot/dsa-practice/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0761-special-binary-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0761-special-binary-string) |
@@ -414,6 +415,7 @@
 | [0127-word-ladder](https://github.com/ritikgehlot/dsa-practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/0133-clone-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0488-zuma-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/ritikgehlot/dsa-practice/tree/master/0514-freedom-trail) |
 | [0542-01-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -523,6 +525,7 @@
 | [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
 | [0472-concatenated-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
+| [0488-zuma-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0514-freedom-trail](https://github.com/ritikgehlot/dsa-practice/tree/master/0514-freedom-trail) |
@@ -685,6 +688,7 @@
 | [0227-basic-calculator-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/ritikgehlot/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0321-create-maximum-number) |
+| [0488-zuma-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0488-zuma-game) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -842,6 +846,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/ritikgehlot/dsa-practice/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
+| [0488-zuma-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/ritikgehlot/dsa-practice/tree/master/0546-remove-boxes) |
 ## Counting Sort
