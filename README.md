@@ -93,6 +93,7 @@
 | [0413-arithmetic-slices](https://github.com/ritikgehlot/dsa-practice/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ritikgehlot/dsa-practice/tree/master/0435-non-overlapping-intervals) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0472-concatenated-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/ritikgehlot/dsa-practice/tree/master/0475-heaters) |
@@ -507,6 +508,7 @@
 | [0413-arithmetic-slices](https://github.com/ritikgehlot/dsa-practice/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ritikgehlot/dsa-practice/tree/master/0435-non-overlapping-intervals) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
