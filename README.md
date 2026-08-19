@@ -236,6 +236,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/ritikgehlot/dsa-practice/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
@@ -272,6 +273,7 @@
 | [0231-power-of-two](https://github.com/ritikgehlot/dsa-practice/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/ritikgehlot/dsa-practice/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
+| [0509-fibonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -517,6 +519,7 @@
 | [0472-concatenated-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0494-target-sum) |
+| [0509-fibonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/ritikgehlot/dsa-practice/tree/master/0546-remove-boxes) |
@@ -831,6 +834,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/ritikgehlot/dsa-practice/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
+| [0509-fibonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/ritikgehlot/dsa-practice/tree/master/0546-remove-boxes) |
 ## Counting Sort
 |  |
