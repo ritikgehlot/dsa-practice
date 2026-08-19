@@ -362,6 +362,7 @@
 | [0336-palindrome-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/0336-palindrome-pairs) |
 | [0472-concatenated-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0472-concatenated-words) |
 | [0514-freedom-trail](https://github.com/ritikgehlot/dsa-practice/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0761-special-binary-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0767-reorganize-string) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
@@ -524,6 +525,7 @@
 | [0494-target-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0514-freedom-trail](https://github.com/ritikgehlot/dsa-practice/tree/master/0514-freedom-trail) |
+| [0516-longest-palindromic-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/ritikgehlot/dsa-practice/tree/master/0546-remove-boxes) |
