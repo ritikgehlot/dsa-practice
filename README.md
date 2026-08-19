@@ -233,6 +233,7 @@
 | [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
 | [0458-poor-pigs](https://github.com/ritikgehlot/dsa-practice/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0553-optimal-division](https://github.com/ritikgehlot/dsa-practice/tree/master/0553-optimal-division) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -511,6 +512,7 @@
 | [0435-non-overlapping-intervals](https://github.com/ritikgehlot/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/ritikgehlot/dsa-practice/tree/master/0458-poor-pigs) |
+| [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
 | [0472-concatenated-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
@@ -704,6 +706,7 @@
 | [0231-power-of-two](https://github.com/ritikgehlot/dsa-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
 | [0397-integer-replacement](https://github.com/ritikgehlot/dsa-practice/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1386-cinema-seat-allocation](https://github.com/ritikgehlot/dsa-practice/tree/master/1386-cinema-seat-allocation) |
@@ -824,6 +827,7 @@
 | [0140-word-break-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0140-word-break-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/ritikgehlot/dsa-practice/tree/master/0397-integer-replacement) |
+| [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
 | [0546-remove-boxes](https://github.com/ritikgehlot/dsa-practice/tree/master/0546-remove-boxes) |
 ## Counting Sort
 |  |
@@ -861,6 +865,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
@@ -971,6 +976,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
 ## Shortest Path
 |  |
