@@ -282,6 +282,7 @@
 | [0326-power-of-three](https://github.com/ritikgehlot/dsa-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ritikgehlot/dsa-practice/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -371,6 +372,7 @@
 | [0273-integer-to-english-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/ritikgehlot/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/0336-palindrome-pairs) |
+| [0394-decode-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0394-decode-string) |
 | [0472-concatenated-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/ritikgehlot/dsa-practice/tree/master/0514-freedom-trail) |
@@ -698,6 +700,7 @@
 | [0227-basic-calculator-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0227-basic-calculator-ii) |
 | [0316-remove-duplicate-letters](https://github.com/ritikgehlot/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0321-create-maximum-number) |
+| [0394-decode-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0394-decode-string) |
 | [0488-zuma-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0488-zuma-game) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 ## Heap (Priority Queue)
