@@ -236,6 +236,7 @@
 | [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ritikgehlot/dsa-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ritikgehlot/dsa-practice/tree/master/0342-power-of-four) |
 | [0458-poor-pigs](https://github.com/ritikgehlot/dsa-practice/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
@@ -278,6 +279,7 @@
 | [0233-number-of-digit-one](https://github.com/ritikgehlot/dsa-practice/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ritikgehlot/dsa-practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ritikgehlot/dsa-practice/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Binary Search
@@ -729,6 +731,7 @@
 | [0187-repeated-dna-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/ritikgehlot/dsa-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/ritikgehlot/dsa-practice/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/ritikgehlot/dsa-practice/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
