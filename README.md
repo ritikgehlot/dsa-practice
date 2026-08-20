@@ -237,6 +237,7 @@
 | [0273-integer-to-english-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ritikgehlot/dsa-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ritikgehlot/dsa-practice/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0390-elimination-game) |
 | [0458-poor-pigs](https://github.com/ritikgehlot/dsa-practice/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
@@ -280,6 +281,7 @@
 | [0273-integer-to-english-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/ritikgehlot/dsa-practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ritikgehlot/dsa-practice/tree/master/0342-power-of-four) |
+| [0390-elimination-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0509-fibonacci-number) |
 ## Binary Search
