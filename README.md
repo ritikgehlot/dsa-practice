@@ -392,6 +392,7 @@
 | [0488-zuma-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/ritikgehlot/dsa-practice/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0691-stickers-to-spell-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0691-stickers-to-spell-word) |
 | [0761-special-binary-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0767-reorganize-string) |
@@ -577,6 +578,7 @@
 | [0546-remove-boxes](https://github.com/ritikgehlot/dsa-practice/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0552-student-attendance-record-ii) |
 | [0553-optimal-division](https://github.com/ritikgehlot/dsa-practice/tree/master/0553-optimal-division) |
+| [0678-valid-parenthesis-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/0688-knight-probability-in-chessboard) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0691-stickers-to-spell-word) |
@@ -675,6 +677,7 @@
 | [0435-non-overlapping-intervals](https://github.com/ritikgehlot/dsa-practice/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/ritikgehlot/dsa-practice/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
+| [0678-valid-parenthesis-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [1386-cinema-seat-allocation](https://github.com/ritikgehlot/dsa-practice/tree/master/1386-cinema-seat-allocation) |
@@ -745,6 +748,7 @@
 | [0321-create-maximum-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0321-create-maximum-number) |
 | [0394-decode-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0394-decode-string) |
 | [0488-zuma-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0488-zuma-game) |
+| [0678-valid-parenthesis-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -1111,4 +1115,8 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/ritikgehlot/dsa-practice/tree/master/0399-evaluate-division) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
