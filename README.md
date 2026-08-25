@@ -123,6 +123,7 @@
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
+| [1223-dice-roll-simulation](https://github.com/ritikgehlot/dsa-practice/tree/master/1223-dice-roll-simulation) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -599,6 +600,7 @@
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1220-count-vowels-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/1220-count-vowels-permutation) |
+| [1223-dice-roll-simulation](https://github.com/ritikgehlot/dsa-practice/tree/master/1223-dice-roll-simulation) |
 | [1406-stone-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ritikgehlot/dsa-practice/tree/master/1563-stone-game-v) |
