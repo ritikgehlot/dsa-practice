@@ -118,6 +118,7 @@
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
 | [0845-longest-mountain-in-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/ritikgehlot/dsa-practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
@@ -263,6 +264,7 @@
 | [0829-consecutive-numbers-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0829-consecutive-numbers-sum) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/ritikgehlot/dsa-practice/tree/master/0887-super-egg-drop) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/ritikgehlot/dsa-practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0906-super-palindromes](https://github.com/ritikgehlot/dsa-practice/tree/master/0906-super-palindromes) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/ritikgehlot/dsa-practice/tree/master/1227-airplane-seat-assignment-probability) |
@@ -328,6 +330,7 @@
 | [0410-split-array-largest-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/ritikgehlot/dsa-practice/tree/master/0475-heaters) |
 | [0887-super-egg-drop](https://github.com/ritikgehlot/dsa-practice/tree/master/0887-super-egg-drop) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/ritikgehlot/dsa-practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -409,6 +412,7 @@
 | [0767-reorganize-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0767-reorganize-string) |
 | [0816-ambiguous-coordinates](https://github.com/ritikgehlot/dsa-practice/tree/master/0816-ambiguous-coordinates) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/ritikgehlot/dsa-practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0906-super-palindromes](https://github.com/ritikgehlot/dsa-practice/tree/master/0906-super-palindromes) |
 | [1927-sum-game](https://github.com/ritikgehlot/dsa-practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -603,6 +607,7 @@
 | [0845-longest-mountain-in-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/ritikgehlot/dsa-practice/tree/master/0887-super-egg-drop) |
+| [0902-numbers-at-most-n-given-digit-set](https://github.com/ritikgehlot/dsa-practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1220-count-vowels-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/1220-count-vowels-permutation) |
