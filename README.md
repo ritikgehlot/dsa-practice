@@ -413,6 +413,7 @@
 | [0816-ambiguous-coordinates](https://github.com/ritikgehlot/dsa-practice/tree/master/0816-ambiguous-coordinates) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ritikgehlot/dsa-practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0906-super-palindromes](https://github.com/ritikgehlot/dsa-practice/tree/master/0906-super-palindromes) |
 | [1927-sum-game](https://github.com/ritikgehlot/dsa-practice/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -608,6 +609,7 @@
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/ritikgehlot/dsa-practice/tree/master/0887-super-egg-drop) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ritikgehlot/dsa-practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0903-valid-permutations-for-di-sequence) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1220-count-vowels-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/1220-count-vowels-permutation) |
@@ -881,6 +883,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0903-valid-permutations-for-di-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
