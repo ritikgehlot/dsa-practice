@@ -118,6 +118,7 @@
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0810-chalkboard-xor-game) |
 | [0827-making-a-large-island](https://github.com/ritikgehlot/dsa-practice/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0832-flipping-an-image) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
 | [0845-longest-mountain-in-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0845-longest-mountain-in-array) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
@@ -548,6 +549,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0475-heaters](https://github.com/ritikgehlot/dsa-practice/tree/master/0475-heaters) |
+| [0832-flipping-an-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0845-longest-mountain-in-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -844,6 +846,7 @@
 | [0784-letter-case-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/0784-letter-case-permutation) |
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
 | [0810-chalkboard-xor-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0810-chalkboard-xor-game) |
+| [0832-flipping-an-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0832-flipping-an-image) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1386-cinema-seat-allocation](https://github.com/ritikgehlot/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -857,6 +860,7 @@
 | [0043-multiply-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0059-spiral-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -879,6 +883,7 @@
 | [0542-01-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0542-01-matrix) |
 | [0782-transform-to-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/0782-transform-to-chessboard) |
 | [0827-making-a-large-island](https://github.com/ritikgehlot/dsa-practice/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 ## Monotonic Stack
 |  |
