@@ -122,6 +122,7 @@
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
 | [0845-longest-mountain-in-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0845-longest-mountain-in-array) |
 | [0861-score-after-flipping-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0861-score-after-flipping-matrix) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/ritikgehlot/dsa-practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ritikgehlot/dsa-practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0907-sum-of-subarray-minimums](https://github.com/ritikgehlot/dsa-practice/tree/master/0907-sum-of-subarray-minimums) |
@@ -496,6 +497,7 @@
 | [0827-making-a-large-island](https://github.com/ritikgehlot/dsa-practice/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ritikgehlot/dsa-practice/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/ritikgehlot/dsa-practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
@@ -854,6 +856,7 @@
 | [0832-flipping-an-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0832-flipping-an-image) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ritikgehlot/dsa-practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0861-score-after-flipping-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0861-score-after-flipping-matrix) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/ritikgehlot/dsa-practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1386-cinema-seat-allocation](https://github.com/ritikgehlot/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -892,6 +895,7 @@
 | [0827-making-a-large-island](https://github.com/ritikgehlot/dsa-practice/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0832-flipping-an-image) |
 | [0861-score-after-flipping-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0861-score-after-flipping-matrix) |
+| [0864-shortest-path-to-get-all-keys](https://github.com/ritikgehlot/dsa-practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 ## Monotonic Stack
 |  |
