@@ -116,6 +116,7 @@
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0782-transform-to-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0810-chalkboard-xor-game) |
 | [0827-making-a-large-island](https://github.com/ritikgehlot/dsa-practice/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
 | [0845-longest-mountain-in-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0845-longest-mountain-in-array) |
@@ -268,6 +269,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0782-transform-to-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0810-chalkboard-xor-game) |
 | [0829-consecutive-numbers-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0829-consecutive-numbers-sum) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/ritikgehlot/dsa-practice/tree/master/0887-super-egg-drop) |
@@ -841,6 +843,7 @@
 | [0782-transform-to-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/0782-transform-to-chessboard) |
 | [0784-letter-case-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/0784-letter-case-permutation) |
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
+| [0810-chalkboard-xor-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0810-chalkboard-xor-game) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1386-cinema-seat-allocation](https://github.com/ritikgehlot/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -1015,6 +1018,7 @@
 | ------- |
 | [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
+| [0810-chalkboard-xor-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0810-chalkboard-xor-game) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/ritikgehlot/dsa-practice/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
@@ -1097,6 +1101,7 @@
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0810-chalkboard-xor-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0810-chalkboard-xor-game) |
 | [0913-cat-and-mouse](https://github.com/ritikgehlot/dsa-practice/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/1510-stone-game-iv) |
@@ -1192,6 +1197,7 @@
 ## Brainteaser
 |  |
 | ------- |
+| [0810-chalkboard-xor-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0810-chalkboard-xor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/ritikgehlot/dsa-practice/tree/master/1227-airplane-seat-assignment-probability) |
 ## Probability and Statistics
 |  |
@@ -1201,4 +1207,8 @@
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
+## Impartial Game
+|  |
+| ------- |
+| [0810-chalkboard-xor-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0810-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
