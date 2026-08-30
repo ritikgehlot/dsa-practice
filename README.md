@@ -280,6 +280,7 @@
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/ritikgehlot/dsa-practice/tree/master/0887-super-egg-drop) |
 | [0891-sum-of-subsequence-widths](https://github.com/ritikgehlot/dsa-practice/tree/master/0891-sum-of-subsequence-widths) |
+| [0899-orderly-queue](https://github.com/ritikgehlot/dsa-practice/tree/master/0899-orderly-queue) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ritikgehlot/dsa-practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0906-super-palindromes](https://github.com/ritikgehlot/dsa-practice/tree/master/0906-super-palindromes) |
 | [0913-cat-and-mouse](https://github.com/ritikgehlot/dsa-practice/tree/master/0913-cat-and-mouse) |
@@ -431,6 +432,7 @@
 | [0784-letter-case-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/0784-letter-case-permutation) |
 | [0816-ambiguous-coordinates](https://github.com/ritikgehlot/dsa-practice/tree/master/0816-ambiguous-coordinates) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
+| [0899-orderly-queue](https://github.com/ritikgehlot/dsa-practice/tree/master/0899-orderly-queue) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ritikgehlot/dsa-practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0906-super-palindromes](https://github.com/ritikgehlot/dsa-practice/tree/master/0906-super-palindromes) |
@@ -702,6 +704,7 @@
 | [0767-reorganize-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0767-reorganize-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0891-sum-of-subsequence-widths](https://github.com/ritikgehlot/dsa-practice/tree/master/0891-sum-of-subsequence-widths) |
+| [0899-orderly-queue](https://github.com/ritikgehlot/dsa-practice/tree/master/0899-orderly-queue) |
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -1252,4 +1255,8 @@
 |  |
 | ------- |
 | [0943-find-the-shortest-superstring](https://github.com/ritikgehlot/dsa-practice/tree/master/0943-find-the-shortest-superstring) |
+## Lexicographically Minimal String Rotation
+|  |
+| ------- |
+| [0899-orderly-queue](https://github.com/ritikgehlot/dsa-practice/tree/master/0899-orderly-queue) |
 <!---LeetCode Topics End-->
