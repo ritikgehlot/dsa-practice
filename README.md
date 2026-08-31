@@ -130,6 +130,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/ritikgehlot/dsa-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0910-smallest-range-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
 | [0943-find-the-shortest-superstring](https://github.com/ritikgehlot/dsa-practice/tree/master/0943-find-the-shortest-superstring) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -373,6 +374,7 @@
 | [0324-wiggle-sort-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0324-wiggle-sort-ii) |
 | [0761-special-binary-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0761-special-binary-string) |
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## String
 |  |
 | ------- |
@@ -653,6 +655,7 @@
 | [0903-valid-permutations-for-di-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0903-valid-permutations-for-di-sequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/ritikgehlot/dsa-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0913-cat-and-mouse](https://github.com/ritikgehlot/dsa-practice/tree/master/0913-cat-and-mouse) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0931-minimum-falling-path-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
 | [0935-knight-dialer](https://github.com/ritikgehlot/dsa-practice/tree/master/0935-knight-dialer) |
 | [0940-distinct-subsequences-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
@@ -1220,6 +1223,7 @@
 ## Queue
 |  |
 | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 ## Brute-Force Search
 |  |
@@ -1270,4 +1274,8 @@
 |  |
 | ------- |
 | [0899-orderly-queue](https://github.com/ritikgehlot/dsa-practice/tree/master/0899-orderly-queue) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
