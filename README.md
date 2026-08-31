@@ -134,6 +134,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
 | [0932-beautiful-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0932-beautiful-array) |
 | [0943-find-the-shortest-superstring](https://github.com/ritikgehlot/dsa-practice/tree/master/0943-find-the-shortest-superstring) |
+| [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
@@ -291,6 +292,7 @@
 | [0910-smallest-range-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0910-smallest-range-ii) |
 | [0913-cat-and-mouse](https://github.com/ritikgehlot/dsa-practice/tree/master/0913-cat-and-mouse) |
 | [0932-beautiful-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/ritikgehlot/dsa-practice/tree/master/1227-airplane-seat-assignment-probability) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
@@ -378,6 +380,7 @@
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0932-beautiful-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0932-beautiful-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -720,6 +723,7 @@
 | [0905-sort-array-by-parity](https://github.com/ritikgehlot/dsa-practice/tree/master/0905-sort-array-by-parity) |
 | [0910-smallest-range-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0910-smallest-range-ii) |
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -858,6 +862,7 @@
 | [0767-reorganize-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
@@ -1059,6 +1064,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ritikgehlot/dsa-practice/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/ritikgehlot/dsa-practice/tree/master/0223-rectangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1114,6 +1120,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0324-wiggle-sort-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -1281,4 +1288,8 @@
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0918-maximum-sum-circular-subarray) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
