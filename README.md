@@ -301,6 +301,7 @@
 | [0913-cat-and-mouse](https://github.com/ritikgehlot/dsa-practice/tree/master/0913-cat-and-mouse) |
 | [0932-beautiful-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0932-beautiful-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
+| [1012-numbers-with-repeated-digits](https://github.com/ritikgehlot/dsa-practice/tree/master/1012-numbers-with-repeated-digits) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/ritikgehlot/dsa-practice/tree/master/1227-airplane-seat-assignment-probability) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
@@ -687,6 +688,7 @@
 | [0978-longest-turbulent-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0978-longest-turbulent-subarray) |
 | [0983-minimum-cost-for-tickets](https://github.com/ritikgehlot/dsa-practice/tree/master/0983-minimum-cost-for-tickets) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ritikgehlot/dsa-practice/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1012-numbers-with-repeated-digits](https://github.com/ritikgehlot/dsa-practice/tree/master/1012-numbers-with-repeated-digits) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1220-count-vowels-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/1220-count-vowels-permutation) |
