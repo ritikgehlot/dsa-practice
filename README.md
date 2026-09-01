@@ -136,6 +136,7 @@
 | [0943-find-the-shortest-superstring](https://github.com/ritikgehlot/dsa-practice/tree/master/0943-find-the-shortest-superstring) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0975-odd-even-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0975-odd-even-jump) |
+| [0978-longest-turbulent-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0978-longest-turbulent-subarray) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
@@ -487,6 +488,7 @@
 | [0220-contains-duplicate-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/0220-contains-duplicate-iii) |
 | [0413-arithmetic-slices](https://github.com/ritikgehlot/dsa-practice/tree/master/0413-arithmetic-slices) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0978-longest-turbulent-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0978-longest-turbulent-subarray) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ritikgehlot/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -680,6 +682,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0940-distinct-subsequences-ii) |
 | [0943-find-the-shortest-superstring](https://github.com/ritikgehlot/dsa-practice/tree/master/0943-find-the-shortest-superstring) |
 | [0975-odd-even-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0975-odd-even-jump) |
+| [0978-longest-turbulent-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0978-longest-turbulent-subarray) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1220-count-vowels-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/1220-count-vowels-permutation) |
