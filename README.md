@@ -452,6 +452,7 @@
 | [0394-decode-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/ritikgehlot/dsa-practice/tree/master/0399-evaluate-division) |
 | [0420-strong-password-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/0420-strong-password-checker) |
+| [0443-string-compression](https://github.com/ritikgehlot/dsa-practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0488-zuma-game) |
@@ -601,6 +602,7 @@
 | [0321-create-maximum-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/ritikgehlot/dsa-practice/tree/master/0443-string-compression) |
 | [0475-heaters](https://github.com/ritikgehlot/dsa-practice/tree/master/0475-heaters) |
 | [0832-flipping-an-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0845-longest-mountain-in-array) |
