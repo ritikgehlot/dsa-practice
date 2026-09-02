@@ -457,6 +457,7 @@
 | [0420-strong-password-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/0420-strong-password-checker) |
 | [0443-string-compression](https://github.com/ritikgehlot/dsa-practice/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0466-count-the-repetitions](https://github.com/ritikgehlot/dsa-practice/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0472-concatenated-words) |
 | [0488-zuma-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/ritikgehlot/dsa-practice/tree/master/0514-freedom-trail) |
@@ -608,6 +609,7 @@
 | [0443-string-compression](https://github.com/ritikgehlot/dsa-practice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ritikgehlot/dsa-practice/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/ritikgehlot/dsa-practice/tree/master/0457-circular-array-loop) |
+| [0466-count-the-repetitions](https://github.com/ritikgehlot/dsa-practice/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/ritikgehlot/dsa-practice/tree/master/0475-heaters) |
 | [0832-flipping-an-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0845-longest-mountain-in-array) |
@@ -661,6 +663,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/ritikgehlot/dsa-practice/tree/master/0458-poor-pigs) |
 | [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
+| [0466-count-the-repetitions](https://github.com/ritikgehlot/dsa-practice/tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0472-concatenated-words) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0488-zuma-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0488-zuma-game) |
