@@ -148,6 +148,7 @@
 | [1105-filling-bookcase-shelves](https://github.com/ritikgehlot/dsa-practice/tree/master/1105-filling-bookcase-shelves) |
 | [1125-smallest-sufficient-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1125-smallest-sufficient-team) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ritikgehlot/dsa-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1139-largest-1-bordered-square](https://github.com/ritikgehlot/dsa-practice/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1223-dice-roll-simulation](https://github.com/ritikgehlot/dsa-practice/tree/master/1223-dice-roll-simulation) |
@@ -719,6 +720,7 @@
 | [1125-smallest-sufficient-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1125-smallest-sufficient-team) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ritikgehlot/dsa-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1137-n-th-tribonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
+| [1139-largest-1-bordered-square](https://github.com/ritikgehlot/dsa-practice/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1220-count-vowels-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/1220-count-vowels-permutation) |
@@ -1006,6 +1008,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/ritikgehlot/dsa-practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0931-minimum-falling-path-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
+| [1139-largest-1-bordered-square](https://github.com/ritikgehlot/dsa-practice/tree/master/1139-largest-1-bordered-square) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ritikgehlot/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Monotonic Stack
