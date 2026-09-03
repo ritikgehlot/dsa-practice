@@ -313,6 +313,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1012-numbers-with-repeated-digits](https://github.com/ritikgehlot/dsa-practice/tree/master/1012-numbers-with-repeated-digits) |
 | [1025-divisor-game](https://github.com/ritikgehlot/dsa-practice/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/ritikgehlot/dsa-practice/tree/master/1227-airplane-seat-assignment-probability) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
@@ -717,6 +718,7 @@
 | [1105-filling-bookcase-shelves](https://github.com/ritikgehlot/dsa-practice/tree/master/1105-filling-bookcase-shelves) |
 | [1125-smallest-sufficient-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1125-smallest-sufficient-team) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ritikgehlot/dsa-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1137-n-th-tribonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1220-count-vowels-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/1220-count-vowels-permutation) |
@@ -1118,6 +1120,7 @@
 | [0691-stickers-to-spell-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0913-cat-and-mouse](https://github.com/ritikgehlot/dsa-practice/tree/master/0913-cat-and-mouse) |
+| [1137-n-th-tribonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting Sort
 |  |
