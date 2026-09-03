@@ -146,6 +146,7 @@
 | [1024-video-stitching](https://github.com/ritikgehlot/dsa-practice/tree/master/1024-video-stitching) |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1105-filling-bookcase-shelves](https://github.com/ritikgehlot/dsa-practice/tree/master/1105-filling-bookcase-shelves) |
+| [1125-smallest-sufficient-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1223-dice-roll-simulation](https://github.com/ritikgehlot/dsa-practice/tree/master/1223-dice-roll-simulation) |
@@ -713,6 +714,7 @@
 | [1025-divisor-game](https://github.com/ritikgehlot/dsa-practice/tree/master/1025-divisor-game) |
 | [1092-shortest-common-supersequence](https://github.com/ritikgehlot/dsa-practice/tree/master/1092-shortest-common-supersequence) |
 | [1105-filling-bookcase-shelves](https://github.com/ritikgehlot/dsa-practice/tree/master/1105-filling-bookcase-shelves) |
+| [1125-smallest-sufficient-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1125-smallest-sufficient-team) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1220-count-vowels-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/1220-count-vowels-permutation) |
@@ -957,6 +959,7 @@
 | [0864-shortest-path-to-get-all-keys](https://github.com/ritikgehlot/dsa-practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0943-find-the-shortest-superstring](https://github.com/ritikgehlot/dsa-practice/tree/master/0943-find-the-shortest-superstring) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [1125-smallest-sufficient-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1125-smallest-sufficient-team) |
 | [1386-cinema-seat-allocation](https://github.com/ritikgehlot/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1289,6 +1292,7 @@
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ritikgehlot/dsa-practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0943-find-the-shortest-superstring](https://github.com/ritikgehlot/dsa-practice/tree/master/0943-find-the-shortest-superstring) |
+| [1125-smallest-sufficient-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1125-smallest-sufficient-team) |
 ## Shortest Path
 |  |
 | ------- |
