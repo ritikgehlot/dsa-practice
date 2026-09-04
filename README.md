@@ -228,6 +228,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ritikgehlot/dsa-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0457-circular-array-loop](https://github.com/ritikgehlot/dsa-practice/tree/master/0457-circular-array-loop) |
+| [0567-permutation-in-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0691-stickers-to-spell-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0691-stickers-to-spell-word) |
 | [0767-reorganize-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0767-reorganize-string) |
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
@@ -470,6 +471,7 @@
 | [0488-zuma-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/ritikgehlot/dsa-practice/tree/master/0514-freedom-trail) |
 | [0516-longest-palindromic-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [0664-strange-printer](https://github.com/ritikgehlot/dsa-practice/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0678-valid-parenthesis-string) |
@@ -511,6 +513,7 @@
 | [0219-contains-duplicate-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/0220-contains-duplicate-iii) |
 | [0413-arithmetic-slices](https://github.com/ritikgehlot/dsa-practice/tree/master/0413-arithmetic-slices) |
+| [0567-permutation-in-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0978-longest-turbulent-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0978-longest-turbulent-subarray) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -620,6 +623,7 @@
 | [0457-circular-array-loop](https://github.com/ritikgehlot/dsa-practice/tree/master/0457-circular-array-loop) |
 | [0466-count-the-repetitions](https://github.com/ritikgehlot/dsa-practice/tree/master/0466-count-the-repetitions) |
 | [0475-heaters](https://github.com/ritikgehlot/dsa-practice/tree/master/0475-heaters) |
+| [0567-permutation-in-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0567-permutation-in-string) |
 | [0832-flipping-an-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0832-flipping-an-image) |
 | [0845-longest-mountain-in-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0845-longest-mountain-in-array) |
 | [0905-sort-array-by-parity](https://github.com/ritikgehlot/dsa-practice/tree/master/0905-sort-array-by-parity) |
