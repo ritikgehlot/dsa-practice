@@ -111,6 +111,7 @@
 | [0546-remove-boxes](https://github.com/ritikgehlot/dsa-practice/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/ritikgehlot/dsa-practice/tree/master/0553-optimal-division) |
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0691-stickers-to-spell-word) |
@@ -229,6 +230,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0457-circular-array-loop](https://github.com/ritikgehlot/dsa-practice/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0691-stickers-to-spell-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0691-stickers-to-spell-word) |
 | [0767-reorganize-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0767-reorganize-string) |
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
@@ -514,6 +516,7 @@
 | [0220-contains-duplicate-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/0220-contains-duplicate-iii) |
 | [0413-arithmetic-slices](https://github.com/ritikgehlot/dsa-practice/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0978-longest-turbulent-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0978-longest-turbulent-subarray) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
@@ -779,6 +782,7 @@
 | [0502-ipo](https://github.com/ritikgehlot/dsa-practice/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/ritikgehlot/dsa-practice/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0761-special-binary-string) |
 | [0767-reorganize-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0767-reorganize-string) |
@@ -1046,6 +1050,7 @@
 | [0169-majority-element](https://github.com/ritikgehlot/dsa-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0767-reorganize-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0767-reorganize-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
