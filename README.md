@@ -148,6 +148,7 @@
 | [1000-minimum-cost-to-merge-stones](https://github.com/ritikgehlot/dsa-practice/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1014-best-sightseeing-pair](https://github.com/ritikgehlot/dsa-practice/tree/master/1014-best-sightseeing-pair) |
 | [1024-video-stitching](https://github.com/ritikgehlot/dsa-practice/tree/master/1024-video-stitching) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1105-filling-bookcase-shelves](https://github.com/ritikgehlot/dsa-practice/tree/master/1105-filling-bookcase-shelves) |
 | [1125-smallest-sufficient-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1125-smallest-sufficient-team) |
@@ -324,6 +325,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1012-numbers-with-repeated-digits](https://github.com/ritikgehlot/dsa-practice/tree/master/1012-numbers-with-repeated-digits) |
 | [1025-divisor-game](https://github.com/ritikgehlot/dsa-practice/tree/master/1025-divisor-game) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/ritikgehlot/dsa-practice/tree/master/1227-airplane-seat-assignment-probability) |
@@ -531,6 +533,7 @@
 | [0978-longest-turbulent-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0978-longest-turbulent-subarray) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/ritikgehlot/dsa-practice/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ritikgehlot/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ritikgehlot/dsa-practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -808,6 +811,7 @@
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0975-odd-even-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0975-odd-even-jump) |
+| [1040-moving-stones-until-consecutive-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
