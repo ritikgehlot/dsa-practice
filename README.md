@@ -182,6 +182,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ritikgehlot/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ritikgehlot/dsa-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ritikgehlot/dsa-practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/ritikgehlot/dsa-practice/tree/master/3731-find-missing-elements) |
@@ -425,6 +426,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1649-create-sorted-array-through-instructions](https://github.com/ritikgehlot/dsa-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## String
 |  |
 | ------- |
@@ -1095,6 +1097,7 @@
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3903-smallest-stable-index-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3904-smallest-stable-index-ii) |
 ## Concurrency
