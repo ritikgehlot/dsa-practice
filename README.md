@@ -188,6 +188,7 @@
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -1095,6 +1096,7 @@
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3903-smallest-stable-index-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3904-smallest-stable-index-ii) |
 ## Concurrency
 |  |
 | ------- |
