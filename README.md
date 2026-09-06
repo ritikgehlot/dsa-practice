@@ -138,6 +138,7 @@
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0924-minimize-malware-spread](https://github.com/ritikgehlot/dsa-practice/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
 | [0932-beautiful-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0932-beautiful-array) |
 | [0943-find-the-shortest-superstring](https://github.com/ritikgehlot/dsa-practice/tree/master/0943-find-the-shortest-superstring) |
@@ -245,6 +246,7 @@
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
 | [0924-minimize-malware-spread](https://github.com/ritikgehlot/dsa-practice/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/ritikgehlot/dsa-practice/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
@@ -565,6 +567,7 @@
 | [0834-sum-of-distances-in-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
 | [0924-minimize-malware-spread](https://github.com/ritikgehlot/dsa-practice/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
@@ -589,6 +592,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ritikgehlot/dsa-practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/ritikgehlot/dsa-practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0924-minimize-malware-spread](https://github.com/ritikgehlot/dsa-practice/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ritikgehlot/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -600,6 +604,7 @@
 | [0827-making-a-large-island](https://github.com/ritikgehlot/dsa-practice/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
 | [0924-minimize-malware-spread](https://github.com/ritikgehlot/dsa-practice/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
@@ -615,6 +620,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ritikgehlot/dsa-practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0913-cat-and-mouse](https://github.com/ritikgehlot/dsa-practice/tree/master/0913-cat-and-mouse) |
 | [0924-minimize-malware-spread](https://github.com/ritikgehlot/dsa-practice/tree/master/0924-minimize-malware-spread) |
+| [0928-minimize-malware-spread-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
