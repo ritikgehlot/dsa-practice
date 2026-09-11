@@ -165,6 +165,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ritikgehlot/dsa-practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ritikgehlot/dsa-practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [1340-jump-game-v](https://github.com/ritikgehlot/dsa-practice/tree/master/1340-jump-game-v) |
 | [1386-cinema-seat-allocation](https://github.com/ritikgehlot/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -800,6 +801,7 @@
 | [1220-count-vowels-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/1220-count-vowels-permutation) |
 | [1223-dice-roll-simulation](https://github.com/ritikgehlot/dsa-practice/tree/master/1223-dice-roll-simulation) |
 | [1227-airplane-seat-assignment-probability](https://github.com/ritikgehlot/dsa-practice/tree/master/1227-airplane-seat-assignment-probability) |
+| [1340-jump-game-v](https://github.com/ritikgehlot/dsa-practice/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ritikgehlot/dsa-practice/tree/master/1563-stone-game-v) |
@@ -865,6 +867,7 @@
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ritikgehlot/dsa-practice/tree/master/1338-reduce-array-size-to-the-half) |
+| [1340-jump-game-v](https://github.com/ritikgehlot/dsa-practice/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ritikgehlot/dsa-practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
