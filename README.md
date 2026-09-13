@@ -790,6 +790,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/ritikgehlot/dsa-practice/tree/master/0790-domino-and-tromino-tiling) |
 | [0792-number-of-matching-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0792-number-of-matching-subsequences) |
+| [0799-champagne-tower](https://github.com/ritikgehlot/dsa-practice/tree/master/0799-champagne-tower) |
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
 | [0834-sum-of-distances-in-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0845-longest-mountain-in-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0845-longest-mountain-in-array) |
