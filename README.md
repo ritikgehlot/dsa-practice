@@ -340,6 +340,7 @@
 | [0342-power-of-four](https://github.com/ritikgehlot/dsa-practice/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/ritikgehlot/dsa-practice/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0390-elimination-game) |
 | [0458-poor-pigs](https://github.com/ritikgehlot/dsa-practice/tree/master/0458-poor-pigs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -761,6 +762,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/ritikgehlot/dsa-practice/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0397-integer-replacement](https://github.com/ritikgehlot/dsa-practice/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0410-split-array-largest-sum) |
@@ -1321,6 +1323,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0810-chalkboard-xor-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0810-chalkboard-xor-game) |
@@ -1408,6 +1411,7 @@
 ## Minimax
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0913-cat-and-mouse](https://github.com/ritikgehlot/dsa-practice/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/1510-stone-game-iv) |
