@@ -526,6 +526,7 @@
 | [0273-integer-to-english-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/ritikgehlot/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/0336-palindrome-pairs) |
+| [0392-is-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/ritikgehlot/dsa-practice/tree/master/0399-evaluate-division) |
 | [0420-strong-password-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/0420-strong-password-checker) |
@@ -712,6 +713,7 @@
 | [0321-create-maximum-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0321-create-maximum-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/ritikgehlot/dsa-practice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/ritikgehlot/dsa-practice/tree/master/0455-assign-cookies) |
 | [0457-circular-array-loop](https://github.com/ritikgehlot/dsa-practice/tree/master/0457-circular-array-loop) |
@@ -767,6 +769,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0376-wiggle-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/ritikgehlot/dsa-practice/tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0410-split-array-largest-sum) |
