@@ -850,6 +850,7 @@
 | [1223-dice-roll-simulation](https://github.com/ritikgehlot/dsa-practice/tree/master/1223-dice-roll-simulation) |
 | [1227-airplane-seat-assignment-probability](https://github.com/ritikgehlot/dsa-practice/tree/master/1227-airplane-seat-assignment-probability) |
 | [1340-jump-game-v](https://github.com/ritikgehlot/dsa-practice/tree/master/1340-jump-game-v) |
+| [1387-sort-integers-by-the-power-value](https://github.com/ritikgehlot/dsa-practice/tree/master/1387-sort-integers-by-the-power-value) |
 | [1406-stone-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ritikgehlot/dsa-practice/tree/master/1563-stone-game-v) |
@@ -926,6 +927,7 @@
 | [1366-rank-teams-by-votes](https://github.com/ritikgehlot/dsa-practice/tree/master/1366-rank-teams-by-votes) |
 | [1383-maximum-performance-of-a-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1387-sort-integers-by-the-power-value](https://github.com/ritikgehlot/dsa-practice/tree/master/1387-sort-integers-by-the-power-value) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ritikgehlot/dsa-practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -1304,6 +1306,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0913-cat-and-mouse](https://github.com/ritikgehlot/dsa-practice/tree/master/0913-cat-and-mouse) |
 | [1137-n-th-tribonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
+| [1387-sort-integers-by-the-power-value](https://github.com/ritikgehlot/dsa-practice/tree/master/1387-sort-integers-by-the-power-value) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Counting Sort
 |  |
