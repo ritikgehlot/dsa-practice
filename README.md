@@ -175,6 +175,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/ritikgehlot/dsa-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ritikgehlot/dsa-practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritikgehlot/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1366-rank-teams-by-votes](https://github.com/ritikgehlot/dsa-practice/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/ritikgehlot/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -279,6 +280,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/ritikgehlot/dsa-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1348-tweet-counts-per-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritikgehlot/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1366-rank-teams-by-votes](https://github.com/ritikgehlot/dsa-practice/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/ritikgehlot/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1982-find-array-given-subset-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/1982-find-array-given-subset-sums) |
@@ -560,6 +562,7 @@
 | [1044-longest-duplicate-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/1044-longest-duplicate-substring) |
 | [1092-shortest-common-supersequence](https://github.com/ritikgehlot/dsa-practice/tree/master/1092-shortest-common-supersequence) |
 | [1348-tweet-counts-per-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/1348-tweet-counts-per-frequency) |
+| [1366-rank-teams-by-votes](https://github.com/ritikgehlot/dsa-practice/tree/master/1366-rank-teams-by-votes) |
 | [1927-sum-game](https://github.com/ritikgehlot/dsa-practice/tree/master/1927-sum-game) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -916,6 +919,7 @@
 | [1348-tweet-counts-per-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ritikgehlot/dsa-practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ritikgehlot/dsa-practice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1366-rank-teams-by-votes](https://github.com/ritikgehlot/dsa-practice/tree/master/1366-rank-teams-by-votes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ritikgehlot/dsa-practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -1196,6 +1200,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0767-reorganize-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0767-reorganize-string) |
+| [1366-rank-teams-by-votes](https://github.com/ritikgehlot/dsa-practice/tree/master/1366-rank-teams-by-votes) |
 | [1982-find-array-given-subset-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/1982-find-array-given-subset-sums) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
