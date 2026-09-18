@@ -581,6 +581,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikgehlot/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/ritikgehlot/dsa-practice/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ritikgehlot/dsa-practice/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ritikgehlot/dsa-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1927-sum-game](https://github.com/ritikgehlot/dsa-practice/tree/master/1927-sum-game) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -878,6 +879,7 @@
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ritikgehlot/dsa-practice/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1641-count-sorted-vowel-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/1641-count-sorted-vowel-strings) |
 | [1643-kth-smallest-instructions](https://github.com/ritikgehlot/dsa-practice/tree/master/1643-kth-smallest-instructions) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ritikgehlot/dsa-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
 | [2463-minimum-total-distance-traveled](https://github.com/ritikgehlot/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
@@ -1102,6 +1104,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/ritikgehlot/dsa-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0975-odd-even-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0975-odd-even-jump) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ritikgehlot/dsa-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ritikgehlot/dsa-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
