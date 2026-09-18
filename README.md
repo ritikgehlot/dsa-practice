@@ -287,6 +287,7 @@
 | [1366-rank-teams-by-votes](https://github.com/ritikgehlot/dsa-practice/tree/master/1366-rank-teams-by-votes) |
 | [1386-cinema-seat-allocation](https://github.com/ritikgehlot/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikgehlot/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1982-find-array-given-subset-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/1982-find-array-given-subset-sums) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2007-find-original-array-from-doubled-array) |
@@ -571,6 +572,7 @@
 | [1092-shortest-common-supersequence](https://github.com/ritikgehlot/dsa-practice/tree/master/1092-shortest-common-supersequence) |
 | [1348-tweet-counts-per-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1366-rank-teams-by-votes](https://github.com/ritikgehlot/dsa-practice/tree/master/1366-rank-teams-by-votes) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikgehlot/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ritikgehlot/dsa-practice/tree/master/1927-sum-game) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -937,6 +939,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/ritikgehlot/dsa-practice/tree/master/1387-sort-integers-by-the-power-value) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikgehlot/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ritikgehlot/dsa-practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1982-find-array-given-subset-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/1982-find-array-given-subset-sums) |
@@ -1002,6 +1005,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1383-maximum-performance-of-a-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1386-cinema-seat-allocation](https://github.com/ritikgehlot/dsa-practice/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikgehlot/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/ritikgehlot/dsa-practice/tree/master/1927-sum-game) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ritikgehlot/dsa-practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2007-find-original-array-from-doubled-array) |
