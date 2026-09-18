@@ -391,6 +391,7 @@
 | [1563-stone-game-v](https://github.com/ritikgehlot/dsa-practice/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ritikgehlot/dsa-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1641-count-sorted-vowel-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/1641-count-sorted-vowel-strings) |
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/ritikgehlot/dsa-practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -873,6 +874,7 @@
 | [1626-best-team-with-no-conflicts](https://github.com/ritikgehlot/dsa-practice/tree/master/1626-best-team-with-no-conflicts) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/ritikgehlot/dsa-practice/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ritikgehlot/dsa-practice/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1641-count-sorted-vowel-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/1641-count-sorted-vowel-strings) |
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
 | [2463-minimum-total-distance-traveled](https://github.com/ritikgehlot/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
@@ -1222,6 +1224,7 @@
 | [0458-poor-pigs](https://github.com/ritikgehlot/dsa-practice/tree/master/0458-poor-pigs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ritikgehlot/dsa-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1641-count-sorted-vowel-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/1641-count-sorted-vowel-strings) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
