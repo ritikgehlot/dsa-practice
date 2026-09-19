@@ -164,6 +164,7 @@
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ritikgehlot/dsa-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1139-largest-1-bordered-square](https://github.com/ritikgehlot/dsa-practice/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
+| [1162-as-far-from-land-as-possible](https://github.com/ritikgehlot/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1223-dice-roll-simulation](https://github.com/ritikgehlot/dsa-practice/tree/master/1223-dice-roll-simulation) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
@@ -677,6 +678,7 @@
 | [0924-minimize-malware-spread](https://github.com/ritikgehlot/dsa-practice/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0934-shortest-bridge](https://github.com/ritikgehlot/dsa-practice/tree/master/0934-shortest-bridge) |
+| [1162-as-far-from-land-as-possible](https://github.com/ritikgehlot/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ritikgehlot/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -869,6 +871,7 @@
 | [1143-longest-common-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/1143-longest-common-subsequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/ritikgehlot/dsa-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1162-as-far-from-land-as-possible](https://github.com/ritikgehlot/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1220-count-vowels-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/1220-count-vowels-permutation) |
 | [1223-dice-roll-simulation](https://github.com/ritikgehlot/dsa-practice/tree/master/1223-dice-roll-simulation) |
@@ -1218,6 +1221,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/ritikgehlot/dsa-practice/tree/master/0934-shortest-bridge) |
 | [1139-largest-1-bordered-square](https://github.com/ritikgehlot/dsa-practice/tree/master/1139-largest-1-bordered-square) |
+| [1162-as-far-from-land-as-possible](https://github.com/ritikgehlot/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ritikgehlot/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Monotonic Stack
