@@ -577,6 +577,7 @@
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/ritikgehlot/dsa-practice/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1044-longest-duplicate-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/1044-longest-duplicate-substring) |
 | [1092-shortest-common-supersequence](https://github.com/ritikgehlot/dsa-practice/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/1143-longest-common-subsequence) |
 | [1348-tweet-counts-per-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1366-rank-teams-by-votes](https://github.com/ritikgehlot/dsa-practice/tree/master/1366-rank-teams-by-votes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikgehlot/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -863,6 +864,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1139-largest-1-bordered-square](https://github.com/ritikgehlot/dsa-practice/tree/master/1139-largest-1-bordered-square) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
+| [1143-longest-common-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/1143-longest-common-subsequence) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1220-count-vowels-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/1220-count-vowels-permutation) |
 | [1223-dice-roll-simulation](https://github.com/ritikgehlot/dsa-practice/tree/master/1223-dice-roll-simulation) |
@@ -1583,6 +1585,7 @@
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/0583-delete-operation-for-two-strings) |
 | [1092-shortest-common-supersequence](https://github.com/ritikgehlot/dsa-practice/tree/master/1092-shortest-common-supersequence) |
+| [1143-longest-common-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/1143-longest-common-subsequence) |
 ## Brainteaser
 |  |
 | ------- |
