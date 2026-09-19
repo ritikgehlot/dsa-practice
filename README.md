@@ -387,6 +387,7 @@
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
 | [1227-airplane-seat-assignment-probability](https://github.com/ritikgehlot/dsa-practice/tree/master/1227-airplane-seat-assignment-probability) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ritikgehlot/dsa-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ritikgehlot/dsa-practice/tree/master/1563-stone-game-v) |
@@ -1371,6 +1372,7 @@
 | [0223-rectangle-area](https://github.com/ritikgehlot/dsa-practice/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/ritikgehlot/dsa-practice/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ritikgehlot/dsa-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Rolling Hash
 |  |
 | ------- |
