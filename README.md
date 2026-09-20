@@ -1293,6 +1293,7 @@
 | [1114-print-in-order](https://github.com/ritikgehlot/dsa-practice/tree/master/1114-print-in-order) |
 | [1115-print-foobar-alternately](https://github.com/ritikgehlot/dsa-practice/tree/master/1115-print-foobar-alternately) |
 | [1116-print-zero-even-odd](https://github.com/ritikgehlot/dsa-practice/tree/master/1116-print-zero-even-odd) |
+| [1117-building-h2o](https://github.com/ritikgehlot/dsa-practice/tree/master/1117-building-h2o) |
 | [1195-fizz-buzz-multithreaded](https://github.com/ritikgehlot/dsa-practice/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/ritikgehlot/dsa-practice/tree/master/1226-the-dining-philosophers) |
 ## Database
