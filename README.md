@@ -122,6 +122,7 @@
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0691-stickers-to-spell-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0740-delete-and-earn](https://github.com/ritikgehlot/dsa-practice/tree/master/0740-delete-and-earn) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0782-transform-to-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/0782-transform-to-chessboard) |
 | [0792-number-of-matching-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0792-number-of-matching-subsequences) |
@@ -275,6 +276,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ritikgehlot/dsa-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0691-stickers-to-spell-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0691-stickers-to-spell-word) |
+| [0740-delete-and-earn](https://github.com/ritikgehlot/dsa-practice/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0792-number-of-matching-subsequences) |
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
@@ -840,6 +842,7 @@
 | [0691-stickers-to-spell-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0730-count-different-palindromic-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0730-count-different-palindromic-subsequences) |
+| [0740-delete-and-earn](https://github.com/ritikgehlot/dsa-practice/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0790-domino-and-tromino-tiling](https://github.com/ritikgehlot/dsa-practice/tree/master/0790-domino-and-tromino-tiling) |
 | [0792-number-of-matching-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0792-number-of-matching-subsequences) |
