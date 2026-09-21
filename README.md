@@ -905,6 +905,7 @@
 | [1643-kth-smallest-instructions](https://github.com/ritikgehlot/dsa-practice/tree/master/1643-kth-smallest-instructions) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ritikgehlot/dsa-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1655-distribute-repeating-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/1655-distribute-repeating-integers) |
+| [1659-maximize-grid-happiness](https://github.com/ritikgehlot/dsa-practice/tree/master/1659-maximize-grid-happiness) |
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
 | [2463-minimum-total-distance-traveled](https://github.com/ritikgehlot/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
@@ -1197,6 +1198,7 @@
 | [1125-smallest-sufficient-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1125-smallest-sufficient-team) |
 | [1386-cinema-seat-allocation](https://github.com/ritikgehlot/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1655-distribute-repeating-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/1655-distribute-repeating-integers) |
+| [1659-maximize-grid-happiness](https://github.com/ritikgehlot/dsa-practice/tree/master/1659-maximize-grid-happiness) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1378,6 +1380,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/ritikgehlot/dsa-practice/tree/master/1387-sort-integers-by-the-power-value) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1659-maximize-grid-happiness](https://github.com/ritikgehlot/dsa-practice/tree/master/1659-maximize-grid-happiness) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1574,6 +1577,7 @@
 | [0943-find-the-shortest-superstring](https://github.com/ritikgehlot/dsa-practice/tree/master/0943-find-the-shortest-superstring) |
 | [1125-smallest-sufficient-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1125-smallest-sufficient-team) |
 | [1655-distribute-repeating-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/1655-distribute-repeating-integers) |
+| [1659-maximize-grid-happiness](https://github.com/ritikgehlot/dsa-practice/tree/master/1659-maximize-grid-happiness) |
 ## Shortest Path
 |  |
 | ------- |
