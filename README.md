@@ -596,6 +596,7 @@
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/ritikgehlot/dsa-practice/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ritikgehlot/dsa-practice/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ritikgehlot/dsa-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1668-maximum-repeating-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/1668-maximum-repeating-substring) |
 | [1927-sum-game](https://github.com/ritikgehlot/dsa-practice/tree/master/1927-sum-game) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -906,6 +907,7 @@
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ritikgehlot/dsa-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1655-distribute-repeating-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/1655-distribute-repeating-integers) |
 | [1659-maximize-grid-happiness](https://github.com/ritikgehlot/dsa-practice/tree/master/1659-maximize-grid-happiness) |
+| [1668-maximum-repeating-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/1668-maximum-repeating-substring) |
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
 | [2463-minimum-total-distance-traveled](https://github.com/ritikgehlot/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
@@ -1168,6 +1170,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1668-maximum-repeating-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/1668-maximum-repeating-substring) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ritikgehlot/dsa-practice/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bit Manipulation
 |  |
