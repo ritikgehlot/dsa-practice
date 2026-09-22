@@ -719,6 +719,7 @@
 | [0924-minimize-malware-spread](https://github.com/ritikgehlot/dsa-practice/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ritikgehlot/dsa-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1998-gcd-sort-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1998-gcd-sort-of-an-array) |
 | [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
@@ -738,6 +739,7 @@
 | [0924-minimize-malware-spread](https://github.com/ritikgehlot/dsa-practice/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ritikgehlot/dsa-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1006,6 +1008,7 @@
 | [1471-the-k-strongest-values-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1478-allocate-mailboxes](https://github.com/ritikgehlot/dsa-practice/tree/master/1478-allocate-mailboxes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ritikgehlot/dsa-practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikgehlot/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1626-best-team-with-no-conflicts](https://github.com/ritikgehlot/dsa-practice/tree/master/1626-best-team-with-no-conflicts) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
@@ -1743,4 +1746,24 @@
 |  |
 | ------- |
 | [1998-gcd-sort-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1998-gcd-sort-of-an-array) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 <!---LeetCode Topics End-->
