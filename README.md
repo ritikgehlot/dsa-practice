@@ -306,6 +306,7 @@
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1982-find-array-given-subset-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/1982-find-array-given-subset-sums) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2007-find-original-array-from-doubled-array) |
+| [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -483,6 +484,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1649-create-sorted-array-through-instructions](https://github.com/ritikgehlot/dsa-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ritikgehlot/dsa-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -713,6 +715,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ritikgehlot/dsa-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1998-gcd-sort-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1998-gcd-sort-of-an-array) |
+| [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
@@ -1168,6 +1171,7 @@
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ritikgehlot/dsa-practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1368,6 +1372,7 @@
 | [0218-the-skyline-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0218-the-skyline-problem) |
 | [1649-create-sorted-array-through-instructions](https://github.com/ritikgehlot/dsa-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3525-find-x-value-of-array-ii) |
 ## Binary Search Tree
@@ -1412,6 +1417,7 @@
 | [0295-find-median-from-data-stream](https://github.com/ritikgehlot/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ritikgehlot/dsa-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1348-tweet-counts-per-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/1348-tweet-counts-per-frequency) |
+| [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1470,6 +1476,7 @@
 | [1348-tweet-counts-per-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1649-create-sorted-array-through-instructions](https://github.com/ritikgehlot/dsa-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1497,6 +1504,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0218-the-skyline-problem) |
 | [1649-create-sorted-array-through-instructions](https://github.com/ritikgehlot/dsa-practice/tree/master/1649-create-sorted-array-through-instructions) |
+| [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
 ## Sweep Line
 |  |
 | ------- |
