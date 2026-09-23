@@ -69,6 +69,7 @@
 | [0179-largest-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ritikgehlot/dsa-practice/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ritikgehlot/dsa-practice/tree/master/0217-contains-duplicate) |
@@ -474,6 +475,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ritikgehlot/dsa-practice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ritikgehlot/dsa-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -639,6 +641,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/0220-contains-duplicate-iii) |
 | [0413-arithmetic-slices](https://github.com/ritikgehlot/dsa-practice/tree/master/0413-arithmetic-slices) |
@@ -1328,6 +1331,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0410-split-array-largest-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0903-valid-permutations-for-di-sequence) |
