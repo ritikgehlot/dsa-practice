@@ -417,6 +417,7 @@
 | [1510-stone-game-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ritikgehlot/dsa-practice/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ritikgehlot/dsa-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1641-count-sorted-vowel-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/1641-count-sorted-vowel-strings) |
 | [1643-kth-smallest-instructions](https://github.com/ritikgehlot/dsa-practice/tree/master/1643-kth-smallest-instructions) |
@@ -466,6 +467,7 @@
 | [0394-decode-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0509-fibonacci-number) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -933,6 +935,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ritikgehlot/dsa-practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ritikgehlot/dsa-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1626-best-team-with-no-conflicts](https://github.com/ritikgehlot/dsa-practice/tree/master/1626-best-team-with-no-conflicts) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/ritikgehlot/dsa-practice/tree/master/1638-count-substrings-that-differ-by-one-character) |
@@ -1248,6 +1251,7 @@
 | [1125-smallest-sufficient-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1125-smallest-sufficient-team) |
 | [1386-cinema-seat-allocation](https://github.com/ritikgehlot/dsa-practice/tree/master/1386-cinema-seat-allocation) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1655-distribute-repeating-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/1655-distribute-repeating-integers) |
 | [1659-maximize-grid-happiness](https://github.com/ritikgehlot/dsa-practice/tree/master/1659-maximize-grid-happiness) |
 | [1681-minimum-incompatibility](https://github.com/ritikgehlot/dsa-practice/tree/master/1681-minimum-incompatibility) |
@@ -1439,6 +1443,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1387-sort-integers-by-the-power-value](https://github.com/ritikgehlot/dsa-practice/tree/master/1387-sort-integers-by-the-power-value) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1659-maximize-grid-happiness](https://github.com/ritikgehlot/dsa-practice/tree/master/1659-maximize-grid-happiness) |
 ## Counting Sort
 |  |
