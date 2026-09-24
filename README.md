@@ -193,6 +193,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ritikgehlot/dsa-practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1626-best-team-with-no-conflicts](https://github.com/ritikgehlot/dsa-practice/tree/master/1626-best-team-with-no-conflicts) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ritikgehlot/dsa-practice/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1643-kth-smallest-instructions](https://github.com/ritikgehlot/dsa-practice/tree/master/1643-kth-smallest-instructions) |
@@ -931,6 +932,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ritikgehlot/dsa-practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ritikgehlot/dsa-practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1626-best-team-with-no-conflicts](https://github.com/ritikgehlot/dsa-practice/tree/master/1626-best-team-with-no-conflicts) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/ritikgehlot/dsa-practice/tree/master/1638-count-substrings-that-differ-by-one-character) |
@@ -1245,6 +1247,7 @@
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/ritikgehlot/dsa-practice/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1125-smallest-sufficient-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1125-smallest-sufficient-team) |
 | [1386-cinema-seat-allocation](https://github.com/ritikgehlot/dsa-practice/tree/master/1386-cinema-seat-allocation) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/1655-distribute-repeating-integers) |
 | [1659-maximize-grid-happiness](https://github.com/ritikgehlot/dsa-practice/tree/master/1659-maximize-grid-happiness) |
 | [1681-minimum-incompatibility](https://github.com/ritikgehlot/dsa-practice/tree/master/1681-minimum-incompatibility) |
@@ -1295,6 +1298,7 @@
 | [1162-as-far-from-land-as-possible](https://github.com/ritikgehlot/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ritikgehlot/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Monotonic Stack
 |  |
@@ -1634,6 +1638,7 @@
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ritikgehlot/dsa-practice/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0943-find-the-shortest-superstring](https://github.com/ritikgehlot/dsa-practice/tree/master/0943-find-the-shortest-superstring) |
 | [1125-smallest-sufficient-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1125-smallest-sufficient-team) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1655-distribute-repeating-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/1655-distribute-repeating-integers) |
 | [1659-maximize-grid-happiness](https://github.com/ritikgehlot/dsa-practice/tree/master/1659-maximize-grid-happiness) |
 | [1681-minimum-incompatibility](https://github.com/ritikgehlot/dsa-practice/tree/master/1681-minimum-incompatibility) |
@@ -1760,6 +1765,7 @@
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ritikgehlot/dsa-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -1784,4 +1790,20 @@
 |  |
 | ------- |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Successive Shortest Path Algorithm
+|  |
+| ------- |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+## Matching (Graph)
+|  |
+| ------- |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+## Minimum-Cost Flow
+|  |
+| ------- |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+## Flow Network
+|  |
+| ------- |
+| [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 <!---LeetCode Topics End-->
