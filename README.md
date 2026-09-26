@@ -202,6 +202,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1681-minimum-incompatibility](https://github.com/ritikgehlot/dsa-practice/tree/master/1681-minimum-incompatibility) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ritikgehlot/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ritikgehlot/dsa-practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
@@ -316,6 +317,7 @@
 | [1655-distribute-repeating-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/1655-distribute-repeating-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1681-minimum-incompatibility](https://github.com/ritikgehlot/dsa-practice/tree/master/1681-minimum-incompatibility) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ritikgehlot/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1982-find-array-given-subset-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/1982-find-array-given-subset-sums) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2007-find-original-array-from-doubled-array) |
@@ -626,6 +628,7 @@
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ritikgehlot/dsa-practice/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ritikgehlot/dsa-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/1668-maximum-repeating-substring) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ritikgehlot/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/ritikgehlot/dsa-practice/tree/master/1927-sum-game) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
