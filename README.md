@@ -620,6 +620,7 @@
 | [1096-brace-expansion-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/1143-longest-common-subsequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/ritikgehlot/dsa-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1348-tweet-counts-per-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1366-rank-teams-by-votes](https://github.com/ritikgehlot/dsa-practice/tree/master/1366-rank-teams-by-votes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikgehlot/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -1194,6 +1195,7 @@
 | [0975-odd-even-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0975-odd-even-jump) |
 | [1096-brace-expansion-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ritikgehlot/dsa-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ritikgehlot/dsa-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Heap (Priority Queue)
 |  |
@@ -1698,6 +1700,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0678-valid-parenthesis-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Longest Common Subsequence
 |  |
 | ------- |
