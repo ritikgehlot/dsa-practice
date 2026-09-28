@@ -618,6 +618,7 @@
 | [1044-longest-duplicate-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/1044-longest-duplicate-substring) |
 | [1092-shortest-common-supersequence](https://github.com/ritikgehlot/dsa-practice/tree/master/1092-shortest-common-supersequence) |
 | [1096-brace-expansion-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1143-longest-common-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/1143-longest-common-subsequence) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/ritikgehlot/dsa-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -1195,6 +1196,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/ritikgehlot/dsa-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0975-odd-even-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0975-odd-even-jump) |
 | [1096-brace-expansion-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ritikgehlot/dsa-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -1702,6 +1704,7 @@
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0678-valid-parenthesis-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Common Subsequence
