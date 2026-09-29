@@ -607,6 +607,7 @@
 | [0767-reorganize-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0767-reorganize-string) |
 | [0784-letter-case-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/0784-letter-case-permutation) |
 | [0792-number-of-matching-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0792-number-of-matching-subsequences) |
+| [0796-rotate-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0796-rotate-string) |
 | [0816-ambiguous-coordinates](https://github.com/ritikgehlot/dsa-practice/tree/master/0816-ambiguous-coordinates) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
 | [0899-orderly-queue](https://github.com/ritikgehlot/dsa-practice/tree/master/0899-orderly-queue) |
@@ -1237,6 +1238,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0796-rotate-string) |
 | [1668-maximum-repeating-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/1668-maximum-repeating-substring) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/ritikgehlot/dsa-practice/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Bit Manipulation
