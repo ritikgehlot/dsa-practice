@@ -965,6 +965,7 @@
 | [2318-number-of-distinct-roll-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/2318-number-of-distinct-roll-sequences) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/ritikgehlot/dsa-practice/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2321-maximum-score-of-spliced-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2321-maximum-score-of-spliced-array) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/ritikgehlot/dsa-practice/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2463-minimum-total-distance-traveled](https://github.com/ritikgehlot/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1292,6 +1293,7 @@
 | [0059-spiral-matrix-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0059-spiral-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/ritikgehlot/dsa-practice/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/ritikgehlot/dsa-practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -1694,6 +1696,7 @@
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
+| [2327-number-of-people-aware-of-a-secret](https://github.com/ritikgehlot/dsa-practice/tree/master/2327-number-of-people-aware-of-a-secret) |
 ## Brute-Force Search
 |  |
 | ------- |
