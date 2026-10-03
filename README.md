@@ -215,6 +215,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ritikgehlot/dsa-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2321-maximum-score-of-spliced-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2321-maximum-score-of-spliced-array) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/ritikgehlot/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -706,6 +707,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ritikgehlot/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -733,6 +735,7 @@
 | [0934-shortest-bridge](https://github.com/ritikgehlot/dsa-practice/tree/master/0934-shortest-bridge) |
 | [1096-brace-expansion-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/ritikgehlot/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ritikgehlot/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -767,6 +770,7 @@
 | [0928-minimize-malware-spread-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ritikgehlot/dsa-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -966,6 +970,7 @@
 | [2320-count-number-of-ways-to-place-houses](https://github.com/ritikgehlot/dsa-practice/tree/master/2320-count-number-of-ways-to-place-houses) |
 | [2321-maximum-score-of-spliced-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2321-maximum-score-of-spliced-array) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/ritikgehlot/dsa-practice/tree/master/2327-number-of-people-aware-of-a-secret) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/ritikgehlot/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1329,6 +1334,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ritikgehlot/dsa-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ritikgehlot/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Monotonic Stack
 |  |
@@ -1472,6 +1478,7 @@
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1659-maximize-grid-happiness](https://github.com/ritikgehlot/dsa-practice/tree/master/1659-maximize-grid-happiness) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/2318-number-of-distinct-roll-sequences) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1643,6 +1650,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0802-find-eventual-safe-states](https://github.com/ritikgehlot/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [0913-cat-and-mouse](https://github.com/ritikgehlot/dsa-practice/tree/master/0913-cat-and-mouse) |
+| [2328-number-of-increasing-paths-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
