@@ -207,6 +207,7 @@
 | [1799-maximize-score-after-n-operations](https://github.com/ritikgehlot/dsa-practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ritikgehlot/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/ritikgehlot/dsa-practice/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
+| [1824-minimum-sideway-jumps](https://github.com/ritikgehlot/dsa-practice/tree/master/1824-minimum-sideway-jumps) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ritikgehlot/dsa-practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
@@ -978,6 +979,7 @@
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1799-maximize-score-after-n-operations](https://github.com/ritikgehlot/dsa-practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/ritikgehlot/dsa-practice/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
+| [1824-minimum-sideway-jumps](https://github.com/ritikgehlot/dsa-practice/tree/master/1824-minimum-sideway-jumps) |
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ritikgehlot/dsa-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/2318-number-of-distinct-roll-sequences) |
@@ -1141,6 +1143,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ritikgehlot/dsa-practice/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ritikgehlot/dsa-practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1824-minimum-sideway-jumps](https://github.com/ritikgehlot/dsa-practice/tree/master/1824-minimum-sideway-jumps) |
 | [1927-sum-game](https://github.com/ritikgehlot/dsa-practice/tree/master/1927-sum-game) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ritikgehlot/dsa-practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2007-find-original-array-from-doubled-array) |
