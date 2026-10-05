@@ -613,6 +613,7 @@
 | [0796-rotate-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0796-rotate-string) |
 | [0816-ambiguous-coordinates](https://github.com/ritikgehlot/dsa-practice/tree/master/0816-ambiguous-coordinates) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
+| [0856-score-of-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0856-score-of-parentheses) |
 | [0899-orderly-queue](https://github.com/ritikgehlot/dsa-practice/tree/master/0899-orderly-queue) |
 | [0902-numbers-at-most-n-given-digit-set](https://github.com/ritikgehlot/dsa-practice/tree/master/0902-numbers-at-most-n-given-digit-set) |
 | [0903-valid-permutations-for-di-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0903-valid-permutations-for-di-sequence) |
@@ -1209,6 +1210,7 @@
 | [0488-zuma-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0488-zuma-game) |
 | [0678-valid-parenthesis-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0856-score-of-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/ritikgehlot/dsa-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0975-odd-even-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0975-odd-even-jump) |
 | [1096-brace-expansion-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1096-brace-expansion-ii) |
@@ -1732,6 +1734,7 @@
 | [0022-generate-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
