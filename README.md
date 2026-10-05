@@ -203,6 +203,7 @@
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1681-minimum-incompatibility](https://github.com/ritikgehlot/dsa-practice/tree/master/1681-minimum-incompatibility) |
 | [1774-closest-dessert-cost](https://github.com/ritikgehlot/dsa-practice/tree/master/1774-closest-dessert-cost) |
+| [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ritikgehlot/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ritikgehlot/dsa-practice/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
@@ -321,6 +322,7 @@
 | [1655-distribute-repeating-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/1655-distribute-repeating-integers) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1681-minimum-incompatibility](https://github.com/ritikgehlot/dsa-practice/tree/master/1681-minimum-incompatibility) |
+| [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/ritikgehlot/dsa-practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1982-find-array-given-subset-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/1982-find-array-given-subset-sums) |
@@ -970,6 +972,7 @@
 | [1681-minimum-incompatibility](https://github.com/ritikgehlot/dsa-practice/tree/master/1681-minimum-incompatibility) |
 | [1774-closest-dessert-cost](https://github.com/ritikgehlot/dsa-practice/tree/master/1774-closest-dessert-cost) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ritikgehlot/dsa-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/2318-number-of-distinct-roll-sequences) |
@@ -1295,6 +1298,7 @@
 | [1655-distribute-repeating-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/1655-distribute-repeating-integers) |
 | [1659-maximize-grid-happiness](https://github.com/ritikgehlot/dsa-practice/tree/master/1659-maximize-grid-happiness) |
 | [1681-minimum-incompatibility](https://github.com/ritikgehlot/dsa-practice/tree/master/1681-minimum-incompatibility) |
+| [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -1383,6 +1387,7 @@
 | [1366-rank-teams-by-votes](https://github.com/ritikgehlot/dsa-practice/tree/master/1366-rank-teams-by-votes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ritikgehlot/dsa-practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1655-distribute-repeating-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/1655-distribute-repeating-integers) |
+| [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1982-find-array-given-subset-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/1982-find-array-given-subset-sums) |
 | [2833-furthest-point-from-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
