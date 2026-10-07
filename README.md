@@ -597,6 +597,7 @@
 | [0227-basic-calculator-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/ritikgehlot/dsa-practice/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/ritikgehlot/dsa-practice/tree/master/0273-integer-to-english-words) |
+| [0301-remove-invalid-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/ritikgehlot/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/0336-palindrome-pairs) |
 | [0392-is-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0392-is-subsequence) |
@@ -729,6 +730,7 @@
 | [0126-word-ladder-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/ritikgehlot/dsa-practice/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/0133-clone-graph) |
+| [0301-remove-invalid-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0365-water-and-jug-problem](https://github.com/ritikgehlot/dsa-practice/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/ritikgehlot/dsa-practice/tree/master/0399-evaluate-division) |
@@ -1207,6 +1209,7 @@
 | [0126-word-ladder-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/ritikgehlot/dsa-practice/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0140-word-break-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
 | [0691-stickers-to-spell-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0691-stickers-to-spell-word) |
