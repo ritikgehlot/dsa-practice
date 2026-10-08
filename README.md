@@ -118,6 +118,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ritikgehlot/dsa-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0638-shopping-offers](https://github.com/ritikgehlot/dsa-practice/tree/master/0638-shopping-offers) |
 | [0643-maximum-average-subarray-i](https://github.com/ritikgehlot/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/ritikgehlot/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ritikgehlot/dsa-practice/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -910,6 +911,7 @@
 | [0553-optimal-division](https://github.com/ritikgehlot/dsa-practice/tree/master/0553-optimal-division) |
 | [0576-out-of-boundary-paths](https://github.com/ritikgehlot/dsa-practice/tree/master/0576-out-of-boundary-paths) |
 | [0583-delete-operation-for-two-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/0583-delete-operation-for-two-strings) |
+| [0638-shopping-offers](https://github.com/ritikgehlot/dsa-practice/tree/master/0638-shopping-offers) |
 | [0664-strange-printer](https://github.com/ritikgehlot/dsa-practice/tree/master/0664-strange-printer) |
 | [0678-valid-parenthesis-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0688-knight-probability-in-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/0688-knight-probability-in-chessboard) |
@@ -1224,6 +1226,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/ritikgehlot/dsa-practice/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0784-letter-case-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/0784-letter-case-permutation) |
@@ -1313,6 +1316,7 @@
 | [0397-integer-replacement](https://github.com/ritikgehlot/dsa-practice/tree/master/0397-integer-replacement) |
 | [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/ritikgehlot/dsa-practice/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0782-transform-to-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/0782-transform-to-chessboard) |
@@ -1526,6 +1530,7 @@
 | [0488-zuma-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0546-remove-boxes](https://github.com/ritikgehlot/dsa-practice/tree/master/0546-remove-boxes) |
+| [0638-shopping-offers](https://github.com/ritikgehlot/dsa-practice/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0913-cat-and-mouse](https://github.com/ritikgehlot/dsa-practice/tree/master/0913-cat-and-mouse) |
@@ -1721,6 +1726,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0518-coin-change-ii) |
+| [0638-shopping-offers](https://github.com/ritikgehlot/dsa-practice/tree/master/0638-shopping-offers) |
 | [1774-closest-dessert-cost](https://github.com/ritikgehlot/dsa-practice/tree/master/1774-closest-dessert-cost) |
 ## 0-1 Knapsack
 |  |
@@ -1732,6 +1738,7 @@
 | ------- |
 | [0464-can-i-win](https://github.com/ritikgehlot/dsa-practice/tree/master/0464-can-i-win) |
 | [0526-beautiful-arrangement](https://github.com/ritikgehlot/dsa-practice/tree/master/0526-beautiful-arrangement) |
+| [0638-shopping-offers](https://github.com/ritikgehlot/dsa-practice/tree/master/0638-shopping-offers) |
 | [0691-stickers-to-spell-word](https://github.com/ritikgehlot/dsa-practice/tree/master/0691-stickers-to-spell-word) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
@@ -1776,6 +1783,7 @@
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0518-coin-change-ii) |
+| [0638-shopping-offers](https://github.com/ritikgehlot/dsa-practice/tree/master/0638-shopping-offers) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
