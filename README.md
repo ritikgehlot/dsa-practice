@@ -176,6 +176,7 @@
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ritikgehlot/dsa-practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ritikgehlot/dsa-practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1306-jump-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ritikgehlot/dsa-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1340-jump-game-v](https://github.com/ritikgehlot/dsa-practice/tree/master/1340-jump-game-v) |
@@ -732,6 +733,7 @@
 | [0934-shortest-bridge](https://github.com/ritikgehlot/dsa-practice/tree/master/0934-shortest-bridge) |
 | [0938-range-sum-of-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ritikgehlot/dsa-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1306-jump-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ritikgehlot/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -764,6 +766,7 @@
 | [0934-shortest-bridge](https://github.com/ritikgehlot/dsa-practice/tree/master/0934-shortest-bridge) |
 | [1096-brace-expansion-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/ritikgehlot/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
+| [1306-jump-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1306-jump-game-iii) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
