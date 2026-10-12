@@ -474,6 +474,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ritikgehlot/dsa-practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3870-count-commas-in-range](https://github.com/ritikgehlot/dsa-practice/tree/master/3870-count-commas-in-range) |
@@ -1034,6 +1035,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Sorting
 |  |
 | ------- |
