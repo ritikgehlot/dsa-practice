@@ -213,6 +213,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ritikgehlot/dsa-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ritikgehlot/dsa-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1755-closest-subsequence-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/1755-closest-subsequence-sum) |
 | [1774-closest-dessert-cost](https://github.com/ritikgehlot/dsa-practice/tree/master/1774-closest-dessert-cost) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1799-maximize-score-after-n-operations](https://github.com/ritikgehlot/dsa-practice/tree/master/1799-maximize-score-after-n-operations) |
@@ -872,6 +873,7 @@
 | [1346-check-if-n-and-its-double-exist](https://github.com/ritikgehlot/dsa-practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1755-closest-subsequence-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/1755-closest-subsequence-sum) |
 | [2540-minimum-common-value](https://github.com/ritikgehlot/dsa-practice/tree/master/2540-minimum-common-value) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1026,6 +1028,7 @@
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1681-minimum-incompatibility](https://github.com/ritikgehlot/dsa-practice/tree/master/1681-minimum-incompatibility) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1755-closest-subsequence-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/1755-closest-subsequence-sum) |
 | [1774-closest-dessert-cost](https://github.com/ritikgehlot/dsa-practice/tree/master/1774-closest-dessert-cost) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
@@ -1130,6 +1133,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ritikgehlot/dsa-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ritikgehlot/dsa-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1755-closest-subsequence-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/1755-closest-subsequence-sum) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ritikgehlot/dsa-practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1982-find-array-given-subset-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/1982-find-array-given-subset-sums) |
@@ -1391,6 +1395,7 @@
 | [1659-maximize-grid-happiness](https://github.com/ritikgehlot/dsa-practice/tree/master/1659-maximize-grid-happiness) |
 | [1681-minimum-incompatibility](https://github.com/ritikgehlot/dsa-practice/tree/master/1681-minimum-incompatibility) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ritikgehlot/dsa-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1755-closest-subsequence-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/1755-closest-subsequence-sum) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1799-maximize-score-after-n-operations](https://github.com/ritikgehlot/dsa-practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/ritikgehlot/dsa-practice/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
@@ -1811,6 +1816,7 @@
 | [1655-distribute-repeating-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/1655-distribute-repeating-integers) |
 | [1659-maximize-grid-happiness](https://github.com/ritikgehlot/dsa-practice/tree/master/1659-maximize-grid-happiness) |
 | [1681-minimum-incompatibility](https://github.com/ritikgehlot/dsa-practice/tree/master/1681-minimum-incompatibility) |
+| [1755-closest-subsequence-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/1755-closest-subsequence-sum) |
 | [1799-maximize-score-after-n-operations](https://github.com/ritikgehlot/dsa-practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/ritikgehlot/dsa-practice/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 ## Shortest Path
@@ -1889,6 +1895,7 @@
 |  |
 | ------- |
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
+| [1755-closest-subsequence-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/1755-closest-subsequence-sum) |
 ## Impartial Game
 |  |
 | ------- |
