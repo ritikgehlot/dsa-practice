@@ -212,6 +212,7 @@
 | [1681-minimum-incompatibility](https://github.com/ritikgehlot/dsa-practice/tree/master/1681-minimum-incompatibility) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ritikgehlot/dsa-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ritikgehlot/dsa-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1774-closest-dessert-cost](https://github.com/ritikgehlot/dsa-practice/tree/master/1774-closest-dessert-cost) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1799-maximize-score-after-n-operations](https://github.com/ritikgehlot/dsa-practice/tree/master/1799-maximize-score-after-n-operations) |
@@ -544,6 +545,7 @@
 | [1649-create-sorted-array-through-instructions](https://github.com/ritikgehlot/dsa-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
 | [2540-minimum-common-value](https://github.com/ritikgehlot/dsa-practice/tree/master/2540-minimum-common-value) |
@@ -1023,6 +1025,7 @@
 | [1668-maximum-repeating-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/1668-maximum-repeating-substring) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1681-minimum-incompatibility](https://github.com/ritikgehlot/dsa-practice/tree/master/1681-minimum-incompatibility) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1774-closest-dessert-cost](https://github.com/ritikgehlot/dsa-practice/tree/master/1774-closest-dessert-cost) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
@@ -1126,6 +1129,7 @@
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/ritikgehlot/dsa-practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ritikgehlot/dsa-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ritikgehlot/dsa-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ritikgehlot/dsa-practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1982-find-array-given-subset-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/1982-find-array-given-subset-sums) |
