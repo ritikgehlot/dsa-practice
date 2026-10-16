@@ -213,6 +213,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ritikgehlot/dsa-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ritikgehlot/dsa-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1751-maximum-number-of-events-that-can-be-attended-ii) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/ritikgehlot/dsa-practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1755-closest-subsequence-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/1755-closest-subsequence-sum) |
 | [1774-closest-dessert-cost](https://github.com/ritikgehlot/dsa-practice/tree/master/1774-closest-dessert-cost) |
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
