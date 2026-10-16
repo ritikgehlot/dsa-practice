@@ -237,6 +237,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/ritikgehlot/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2540-minimum-common-value](https://github.com/ritikgehlot/dsa-practice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ritikgehlot/dsa-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ritikgehlot/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/ritikgehlot/dsa-practice/tree/master/2784-check-if-array-is-good) |
@@ -356,6 +357,7 @@
 | [2007-find-original-array-from-doubled-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
 | [2540-minimum-common-value](https://github.com/ritikgehlot/dsa-practice/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/ritikgehlot/dsa-practice/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikgehlot/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ritikgehlot/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -1401,6 +1403,7 @@
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1799-maximize-score-after-n-operations](https://github.com/ritikgehlot/dsa-practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/ritikgehlot/dsa-practice/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikgehlot/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3513-number-of-unique-xor-triplets-i) |
