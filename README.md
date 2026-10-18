@@ -158,6 +158,7 @@
 | [0983-minimum-cost-for-tickets](https://github.com/ritikgehlot/dsa-practice/tree/master/0983-minimum-cost-for-tickets) |
 | [0995-minimum-number-of-k-consecutive-bit-flips](https://github.com/ritikgehlot/dsa-practice/tree/master/0995-minimum-number-of-k-consecutive-bit-flips) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ritikgehlot/dsa-practice/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ritikgehlot/dsa-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1014-best-sightseeing-pair](https://github.com/ritikgehlot/dsa-practice/tree/master/1014-best-sightseeing-pair) |
 | [1024-video-stitching](https://github.com/ritikgehlot/dsa-practice/tree/master/1024-video-stitching) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
@@ -1125,6 +1126,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0975-odd-even-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0975-odd-even-jump) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ritikgehlot/dsa-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1096-brace-expansion-ii) |
@@ -1220,6 +1222,7 @@
 | [0861-score-after-flipping-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0861-score-after-flipping-matrix) |
 | [0910-smallest-range-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritikgehlot/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/ritikgehlot/dsa-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1024-video-stitching](https://github.com/ritikgehlot/dsa-practice/tree/master/1024-video-stitching) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ritikgehlot/dsa-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/ritikgehlot/dsa-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
