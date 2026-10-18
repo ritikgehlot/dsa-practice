@@ -334,6 +334,7 @@
 | [0924-minimize-malware-spread](https://github.com/ritikgehlot/dsa-practice/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ritikgehlot/dsa-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/ritikgehlot/dsa-practice/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1096-brace-expansion-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
@@ -767,6 +768,7 @@
 | [0934-shortest-bridge](https://github.com/ritikgehlot/dsa-practice/tree/master/0934-shortest-bridge) |
 | [0938-range-sum-of-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ritikgehlot/dsa-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
@@ -798,6 +800,7 @@
 | [0924-minimize-malware-spread](https://github.com/ritikgehlot/dsa-practice/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0934-shortest-bridge](https://github.com/ritikgehlot/dsa-practice/tree/master/0934-shortest-bridge) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/ritikgehlot/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1306-jump-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1306-jump-game-iii) |
@@ -1121,6 +1124,7 @@
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 | [0975-odd-even-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0975-odd-even-jump) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1096-brace-expansion-ii) |
@@ -1572,6 +1576,7 @@
 | [0814-binary-tree-pruning](https://github.com/ritikgehlot/dsa-practice/tree/master/0814-binary-tree-pruning) |
 | [0834-sum-of-distances-in-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0834-sum-of-distances-in-tree) |
 | [0938-range-sum-of-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ritikgehlot/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -1583,6 +1588,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0814-binary-tree-pruning](https://github.com/ritikgehlot/dsa-practice/tree/master/0814-binary-tree-pruning) |
 | [0938-range-sum-of-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/0938-range-sum-of-bst) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ritikgehlot/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
