@@ -161,6 +161,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ritikgehlot/dsa-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1014-best-sightseeing-pair](https://github.com/ritikgehlot/dsa-practice/tree/master/1014-best-sightseeing-pair) |
 | [1024-video-stitching](https://github.com/ritikgehlot/dsa-practice/tree/master/1024-video-stitching) |
+| [1029-two-city-scheduling](https://github.com/ritikgehlot/dsa-practice/tree/master/1029-two-city-scheduling) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1105-filling-bookcase-shelves](https://github.com/ritikgehlot/dsa-practice/tree/master/1105-filling-bookcase-shelves) |
@@ -1127,6 +1128,7 @@
 | [0975-odd-even-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0975-odd-even-jump) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ritikgehlot/dsa-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1029-two-city-scheduling](https://github.com/ritikgehlot/dsa-practice/tree/master/1029-two-city-scheduling) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1096-brace-expansion-ii) |
@@ -1224,6 +1226,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritikgehlot/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ritikgehlot/dsa-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1024-video-stitching](https://github.com/ritikgehlot/dsa-practice/tree/master/1024-video-stitching) |
+| [1029-two-city-scheduling](https://github.com/ritikgehlot/dsa-practice/tree/master/1029-two-city-scheduling) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ritikgehlot/dsa-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/ritikgehlot/dsa-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ritikgehlot/dsa-practice/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -2017,6 +2020,7 @@
 ## Successive Shortest Path Algorithm
 |  |
 | ------- |
+| [1029-two-city-scheduling](https://github.com/ritikgehlot/dsa-practice/tree/master/1029-two-city-scheduling) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 ## Matching (Graph)
 |  |
@@ -2038,4 +2042,8 @@
 |  |
 | ------- |
 | [1774-closest-dessert-cost](https://github.com/ritikgehlot/dsa-practice/tree/master/1774-closest-dessert-cost) |
+## Hungarian Algorithm
+|  |
+| ------- |
+| [1029-two-city-scheduling](https://github.com/ritikgehlot/dsa-practice/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
