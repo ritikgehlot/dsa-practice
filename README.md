@@ -162,6 +162,7 @@
 | [1014-best-sightseeing-pair](https://github.com/ritikgehlot/dsa-practice/tree/master/1014-best-sightseeing-pair) |
 | [1024-video-stitching](https://github.com/ritikgehlot/dsa-practice/tree/master/1024-video-stitching) |
 | [1029-two-city-scheduling](https://github.com/ritikgehlot/dsa-practice/tree/master/1029-two-city-scheduling) |
+| [1030-matrix-cells-in-distance-order](https://github.com/ritikgehlot/dsa-practice/tree/master/1030-matrix-cells-in-distance-order) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1105-filling-bookcase-shelves](https://github.com/ritikgehlot/dsa-practice/tree/master/1105-filling-bookcase-shelves) |
@@ -458,6 +459,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1012-numbers-with-repeated-digits](https://github.com/ritikgehlot/dsa-practice/tree/master/1012-numbers-with-repeated-digits) |
 | [1025-divisor-game](https://github.com/ritikgehlot/dsa-practice/tree/master/1025-divisor-game) |
+| [1030-matrix-cells-in-distance-order](https://github.com/ritikgehlot/dsa-practice/tree/master/1030-matrix-cells-in-distance-order) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1140-stone-game-ii) |
@@ -1129,6 +1131,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/ritikgehlot/dsa-practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-two-city-scheduling](https://github.com/ritikgehlot/dsa-practice/tree/master/1029-two-city-scheduling) |
+| [1030-matrix-cells-in-distance-order](https://github.com/ritikgehlot/dsa-practice/tree/master/1030-matrix-cells-in-distance-order) |
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1051-height-checker](https://github.com/ritikgehlot/dsa-practice/tree/master/1051-height-checker) |
 | [1096-brace-expansion-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1096-brace-expansion-ii) |
@@ -1473,6 +1476,7 @@
 | [0864-shortest-path-to-get-all-keys](https://github.com/ritikgehlot/dsa-practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0931-minimum-falling-path-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/0931-minimum-falling-path-sum) |
 | [0934-shortest-bridge](https://github.com/ritikgehlot/dsa-practice/tree/master/0934-shortest-bridge) |
+| [1030-matrix-cells-in-distance-order](https://github.com/ritikgehlot/dsa-practice/tree/master/1030-matrix-cells-in-distance-order) |
 | [1139-largest-1-bordered-square](https://github.com/ritikgehlot/dsa-practice/tree/master/1139-largest-1-bordered-square) |
 | [1162-as-far-from-land-as-possible](https://github.com/ritikgehlot/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
@@ -1668,6 +1672,7 @@
 | [0223-rectangle-area](https://github.com/ritikgehlot/dsa-practice/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/ritikgehlot/dsa-practice/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
+| [1030-matrix-cells-in-distance-order](https://github.com/ritikgehlot/dsa-practice/tree/master/1030-matrix-cells-in-distance-order) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ritikgehlot/dsa-practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ritikgehlot/dsa-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 ## Rolling Hash
