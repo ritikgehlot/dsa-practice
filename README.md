@@ -255,6 +255,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3093-longest-common-suffix-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3093-longest-common-suffix-queries) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3161-block-placement-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3161-block-placement-queries) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
@@ -574,6 +575,7 @@
 | [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
 | [2540-minimum-common-value](https://github.com/ritikgehlot/dsa-practice/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3161-block-placement-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3161-block-placement-queries) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/ritikgehlot/dsa-practice/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/ritikgehlot/dsa-practice/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -1625,6 +1627,7 @@
 | [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ritikgehlot/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3161-block-placement-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3161-block-placement-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3525-find-x-value-of-array-ii) |
 ## Binary Search Tree
@@ -1735,6 +1738,7 @@
 | [1649-create-sorted-array-through-instructions](https://github.com/ritikgehlot/dsa-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
+| [3161-block-placement-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3161-block-placement-queries) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1766,6 +1770,7 @@
 | [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ritikgehlot/dsa-practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3161-block-placement-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3161-block-placement-queries) |
 ## Sweep Line
 |  |
 | ------- |
