@@ -174,6 +174,7 @@
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1223-dice-roll-simulation](https://github.com/ritikgehlot/dsa-practice/tree/master/1223-dice-roll-simulation) |
 | [1250-check-if-it-is-a-good-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1250-check-if-it-is-a-good-array) |
+| [1254-number-of-closed-islands](https://github.com/ritikgehlot/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ritikgehlot/dsa-practice/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ritikgehlot/dsa-practice/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -791,6 +792,7 @@
 | [0938-range-sum-of-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/0938-range-sum-of-bst) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ritikgehlot/dsa-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/ritikgehlot/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1382-balance-a-binary-search-tree) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
@@ -825,6 +827,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1096-brace-expansion-ii) |
 | [1162-as-far-from-land-as-possible](https://github.com/ritikgehlot/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/ritikgehlot/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/1345-jump-game-iv) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -841,6 +844,7 @@
 | [0924-minimize-malware-spread](https://github.com/ritikgehlot/dsa-practice/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0928-minimize-malware-spread-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/ritikgehlot/dsa-practice/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1254-number-of-closed-islands](https://github.com/ritikgehlot/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1998-gcd-sort-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1998-gcd-sort-of-an-array) |
@@ -1504,6 +1508,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/ritikgehlot/dsa-practice/tree/master/1030-matrix-cells-in-distance-order) |
 | [1139-largest-1-bordered-square](https://github.com/ritikgehlot/dsa-practice/tree/master/1139-largest-1-bordered-square) |
 | [1162-as-far-from-land-as-possible](https://github.com/ritikgehlot/dsa-practice/tree/master/1162-as-far-from-land-as-possible) |
+| [1254-number-of-closed-islands](https://github.com/ritikgehlot/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ritikgehlot/dsa-practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1289-minimum-falling-path-sum-ii) |
