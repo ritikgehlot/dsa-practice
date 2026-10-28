@@ -286,6 +286,7 @@
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3904-smallest-stable-index-ii) |
@@ -1101,6 +1102,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -1470,6 +1472,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ritikgehlot/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ritikgehlot/dsa-practice/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -1524,6 +1527,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ritikgehlot/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ritikgehlot/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
