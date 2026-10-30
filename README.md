@@ -278,6 +278,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ritikgehlot/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ritikgehlot/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -593,6 +594,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -935,6 +937,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ritikgehlot/dsa-practice/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -1218,6 +1221,7 @@
 | [3536-maximum-product-of-two-digits](https://github.com/ritikgehlot/dsa-practice/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ritikgehlot/dsa-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/ritikgehlot/dsa-practice/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1306,6 +1310,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/ritikgehlot/dsa-practice/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ritikgehlot/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ritikgehlot/dsa-practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ritikgehlot/dsa-practice/tree/master/3727-maximum-alternating-sum-of-squares) |
