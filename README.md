@@ -197,6 +197,7 @@
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ritikgehlot/dsa-practice/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1406-stone-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ritikgehlot/dsa-practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [1424-diagonal-traverse-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ritikgehlot/dsa-practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -1201,6 +1202,7 @@
 | [1402-reducing-dishes](https://github.com/ritikgehlot/dsa-practice/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/ritikgehlot/dsa-practice/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ritikgehlot/dsa-practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [1424-diagonal-traverse-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts](https://github.com/ritikgehlot/dsa-practice/tree/master/1465-maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1471-the-k-strongest-values-in-an-array) |
@@ -1439,6 +1441,7 @@
 | [1338-reduce-array-size-to-the-half](https://github.com/ritikgehlot/dsa-practice/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ritikgehlot/dsa-practice/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1383-maximum-performance-of-a-team) |
+| [1424-diagonal-traverse-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ritikgehlot/dsa-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
