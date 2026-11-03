@@ -140,6 +140,7 @@
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
 | [0845-longest-mountain-in-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/ritikgehlot/dsa-practice/tree/master/0846-hand-of-straights) |
+| [0853-car-fleet](https://github.com/ritikgehlot/dsa-practice/tree/master/0853-car-fleet) |
 | [0861-score-after-flipping-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/ritikgehlot/dsa-practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
@@ -1187,6 +1188,7 @@
 | [0826-most-profit-assigning-work](https://github.com/ritikgehlot/dsa-practice/tree/master/0826-most-profit-assigning-work) |
 | [0833-find-and-replace-in-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0833-find-and-replace-in-string) |
 | [0846-hand-of-straights](https://github.com/ritikgehlot/dsa-practice/tree/master/0846-hand-of-straights) |
+| [0853-car-fleet](https://github.com/ritikgehlot/dsa-practice/tree/master/0853-car-fleet) |
 | [0891-sum-of-subsequence-widths](https://github.com/ritikgehlot/dsa-practice/tree/master/0891-sum-of-subsequence-widths) |
 | [0899-orderly-queue](https://github.com/ritikgehlot/dsa-practice/tree/master/0899-orderly-queue) |
 | [0905-sort-array-by-parity](https://github.com/ritikgehlot/dsa-practice/tree/master/0905-sort-array-by-parity) |
@@ -1426,6 +1428,7 @@
 | [0488-zuma-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0488-zuma-game) |
 | [0678-valid-parenthesis-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0678-valid-parenthesis-string) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0853-car-fleet](https://github.com/ritikgehlot/dsa-practice/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/ritikgehlot/dsa-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritikgehlot/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1595,6 +1598,7 @@
 | [0316-remove-duplicate-letters](https://github.com/ritikgehlot/dsa-practice/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0321-create-maximum-number) |
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
+| [0853-car-fleet](https://github.com/ritikgehlot/dsa-practice/tree/master/0853-car-fleet) |
 | [0907-sum-of-subarray-minimums](https://github.com/ritikgehlot/dsa-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0975-odd-even-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0975-odd-even-jump) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ritikgehlot/dsa-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
