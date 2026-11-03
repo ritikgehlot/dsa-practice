@@ -135,6 +135,7 @@
 | [0826-most-profit-assigning-work](https://github.com/ritikgehlot/dsa-practice/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/ritikgehlot/dsa-practice/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0832-flipping-an-image) |
+| [0833-find-and-replace-in-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0833-find-and-replace-in-string) |
 | [0835-image-overlap](https://github.com/ritikgehlot/dsa-practice/tree/master/0835-image-overlap) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
 | [0845-longest-mountain-in-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0845-longest-mountain-in-array) |
@@ -356,6 +357,7 @@
 | [0767-reorganize-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0767-reorganize-string) |
 | [0792-number-of-matching-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0792-number-of-matching-subsequences) |
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
+| [0833-find-and-replace-in-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0833-find-and-replace-in-string) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
 | [0924-minimize-malware-spread](https://github.com/ritikgehlot/dsa-practice/tree/master/0924-minimize-malware-spread) |
 | [0928-minimize-malware-spread-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0928-minimize-malware-spread-ii) |
@@ -706,6 +708,7 @@
 | [0792-number-of-matching-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0792-number-of-matching-subsequences) |
 | [0796-rotate-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0796-rotate-string) |
 | [0816-ambiguous-coordinates](https://github.com/ritikgehlot/dsa-practice/tree/master/0816-ambiguous-coordinates) |
+| [0833-find-and-replace-in-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0833-find-and-replace-in-string) |
 | [0839-similar-string-groups](https://github.com/ritikgehlot/dsa-practice/tree/master/0839-similar-string-groups) |
 | [0856-score-of-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/0856-score-of-parentheses) |
 | [0899-orderly-queue](https://github.com/ritikgehlot/dsa-practice/tree/master/0899-orderly-queue) |
@@ -1180,6 +1183,7 @@
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0792-number-of-matching-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0792-number-of-matching-subsequences) |
 | [0826-most-profit-assigning-work](https://github.com/ritikgehlot/dsa-practice/tree/master/0826-most-profit-assigning-work) |
+| [0833-find-and-replace-in-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0833-find-and-replace-in-string) |
 | [0891-sum-of-subsequence-widths](https://github.com/ritikgehlot/dsa-practice/tree/master/0891-sum-of-subsequence-widths) |
 | [0899-orderly-queue](https://github.com/ritikgehlot/dsa-practice/tree/master/0899-orderly-queue) |
 | [0905-sort-array-by-parity](https://github.com/ritikgehlot/dsa-practice/tree/master/0905-sort-array-by-parity) |
