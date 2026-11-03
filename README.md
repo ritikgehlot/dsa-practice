@@ -141,6 +141,7 @@
 | [0845-longest-mountain-in-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0845-longest-mountain-in-array) |
 | [0846-hand-of-straights](https://github.com/ritikgehlot/dsa-practice/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/ritikgehlot/dsa-practice/tree/master/0853-car-fleet) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/ritikgehlot/dsa-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0861-score-after-flipping-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0861-score-after-flipping-matrix) |
 | [0864-shortest-path-to-get-all-keys](https://github.com/ritikgehlot/dsa-practice/tree/master/0864-shortest-path-to-get-all-keys) |
 | [0877-stone-game](https://github.com/ritikgehlot/dsa-practice/tree/master/0877-stone-game) |
@@ -1189,6 +1190,7 @@
 | [0833-find-and-replace-in-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0833-find-and-replace-in-string) |
 | [0846-hand-of-straights](https://github.com/ritikgehlot/dsa-practice/tree/master/0846-hand-of-straights) |
 | [0853-car-fleet](https://github.com/ritikgehlot/dsa-practice/tree/master/0853-car-fleet) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/ritikgehlot/dsa-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0891-sum-of-subsequence-widths](https://github.com/ritikgehlot/dsa-practice/tree/master/0891-sum-of-subsequence-widths) |
 | [0899-orderly-queue](https://github.com/ritikgehlot/dsa-practice/tree/master/0899-orderly-queue) |
 | [0905-sort-array-by-parity](https://github.com/ritikgehlot/dsa-practice/tree/master/0905-sort-array-by-parity) |
@@ -1306,6 +1308,7 @@
 | [0768-max-chunks-to-make-sorted-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0768-max-chunks-to-make-sorted-ii) |
 | [0826-most-profit-assigning-work](https://github.com/ritikgehlot/dsa-practice/tree/master/0826-most-profit-assigning-work) |
 | [0846-hand-of-straights](https://github.com/ritikgehlot/dsa-practice/tree/master/0846-hand-of-straights) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/ritikgehlot/dsa-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0861-score-after-flipping-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/0861-score-after-flipping-matrix) |
 | [0910-smallest-range-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0910-smallest-range-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ritikgehlot/dsa-practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1457,6 +1460,7 @@
 | [0658-find-k-closest-elements](https://github.com/ritikgehlot/dsa-practice/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/ritikgehlot/dsa-practice/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/ritikgehlot/dsa-practice/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0912-sort-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ritikgehlot/dsa-practice/tree/master/1338-reduce-array-size-to-the-half) |
