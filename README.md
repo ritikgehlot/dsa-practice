@@ -478,6 +478,7 @@
 | [0553-optimal-division](https://github.com/ritikgehlot/dsa-practice/tree/master/0553-optimal-division) |
 | [0587-erect-the-fence](https://github.com/ritikgehlot/dsa-practice/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ritikgehlot/dsa-practice/tree/master/0592-fraction-addition-and-subtraction) |
+| [0593-valid-square](https://github.com/ritikgehlot/dsa-practice/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0782-transform-to-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
@@ -1790,6 +1791,7 @@
 | [0149-max-points-on-a-line](https://github.com/ritikgehlot/dsa-practice/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/ritikgehlot/dsa-practice/tree/master/0223-rectangle-area) |
 | [0587-erect-the-fence](https://github.com/ritikgehlot/dsa-practice/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/ritikgehlot/dsa-practice/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/ritikgehlot/dsa-practice/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ritikgehlot/dsa-practice/tree/master/1030-matrix-cells-in-distance-order) |
