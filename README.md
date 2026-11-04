@@ -116,6 +116,7 @@
 | [0546-remove-boxes](https://github.com/ritikgehlot/dsa-practice/tree/master/0546-remove-boxes) |
 | [0553-optimal-division](https://github.com/ritikgehlot/dsa-practice/tree/master/0553-optimal-division) |
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
+| [0587-erect-the-fence](https://github.com/ritikgehlot/dsa-practice/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ritikgehlot/dsa-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -475,6 +476,7 @@
 | [0486-predict-the-winner](https://github.com/ritikgehlot/dsa-practice/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/ritikgehlot/dsa-practice/tree/master/0509-fibonacci-number) |
 | [0553-optimal-division](https://github.com/ritikgehlot/dsa-practice/tree/master/0553-optimal-division) |
+| [0587-erect-the-fence](https://github.com/ritikgehlot/dsa-practice/tree/master/0587-erect-the-fence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0782-transform-to-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
@@ -1784,6 +1786,7 @@
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/ritikgehlot/dsa-practice/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/ritikgehlot/dsa-practice/tree/master/0223-rectangle-area) |
+| [0587-erect-the-fence](https://github.com/ritikgehlot/dsa-practice/tree/master/0587-erect-the-fence) |
 | [0836-rectangle-overlap](https://github.com/ritikgehlot/dsa-practice/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/0973-k-closest-points-to-origin) |
 | [1030-matrix-cells-in-distance-order](https://github.com/ritikgehlot/dsa-practice/tree/master/1030-matrix-cells-in-distance-order) |
@@ -2170,4 +2173,12 @@
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/ritikgehlot/dsa-practice/tree/master/1029-two-city-scheduling) |
+## Convex Hull
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/ritikgehlot/dsa-practice/tree/master/0587-erect-the-fence) |
+## Polygons
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/ritikgehlot/dsa-practice/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
