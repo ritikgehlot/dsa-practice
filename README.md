@@ -118,6 +118,7 @@
 | [0561-array-partition](https://github.com/ritikgehlot/dsa-practice/tree/master/0561-array-partition) |
 | [0587-erect-the-fence](https://github.com/ritikgehlot/dsa-practice/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/ritikgehlot/dsa-practice/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ritikgehlot/dsa-practice/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0638-shopping-offers](https://github.com/ritikgehlot/dsa-practice/tree/master/0638-shopping-offers) |
@@ -479,6 +480,7 @@
 | [0587-erect-the-fence](https://github.com/ritikgehlot/dsa-practice/tree/master/0587-erect-the-fence) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ritikgehlot/dsa-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0593-valid-square](https://github.com/ritikgehlot/dsa-practice/tree/master/0593-valid-square) |
+| [0598-range-addition-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0782-transform-to-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/0782-transform-to-chessboard) |
 | [0805-split-array-with-same-average](https://github.com/ritikgehlot/dsa-practice/tree/master/0805-split-array-with-same-average) |
