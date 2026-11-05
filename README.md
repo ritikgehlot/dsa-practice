@@ -604,6 +604,7 @@
 | [1348-tweet-counts-per-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1649-create-sorted-array-through-instructions](https://github.com/ritikgehlot/dsa-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -838,6 +839,7 @@
 | [1254-number-of-closed-islands](https://github.com/ritikgehlot/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1382-balance-a-binary-search-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1382-balance-a-binary-search-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ritikgehlot/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -875,6 +877,7 @@
 | [1254-number-of-closed-islands](https://github.com/ritikgehlot/dsa-practice/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/1345-jump-game-iv) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
@@ -1103,6 +1106,7 @@
 | [1406-stone-game-iii](https://github.com/ritikgehlot/dsa-practice/tree/master/1406-stone-game-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/ritikgehlot/dsa-practice/tree/master/1478-allocate-mailboxes) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ritikgehlot/dsa-practice/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -1529,6 +1533,7 @@
 | [1016-binary-string-with-substrings-representing-1-to-n](https://github.com/ritikgehlot/dsa-practice/tree/master/1016-binary-string-with-substrings-representing-1-to-n) |
 | [1125-smallest-sufficient-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1125-smallest-sufficient-team) |
 | [1386-cinema-seat-allocation](https://github.com/ritikgehlot/dsa-practice/tree/master/1386-cinema-seat-allocation) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1611-minimum-one-bit-operations-to-make-integers-zero) |
 | [1655-distribute-repeating-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/1655-distribute-repeating-integers) |
@@ -1707,6 +1712,7 @@
 | [0938-range-sum-of-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/0938-range-sum-of-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1382-balance-a-binary-search-tree) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ritikgehlot/dsa-practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -1782,6 +1788,7 @@
 | [0295-find-median-from-data-stream](https://github.com/ritikgehlot/dsa-practice/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/ritikgehlot/dsa-practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [1348-tweet-counts-per-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/1348-tweet-counts-per-frequency) |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
 ## Doubly-Linked List
 |  |
@@ -2190,4 +2197,8 @@
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/ritikgehlot/dsa-practice/tree/master/0587-erect-the-fence) |
+## Binary Lifting
+|  |
+| ------- |
+| [1483-kth-ancestor-of-a-tree-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->
