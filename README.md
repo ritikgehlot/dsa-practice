@@ -211,6 +211,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/ritikgehlot/dsa-practice/tree/master/1478-allocate-mailboxes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ritikgehlot/dsa-practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikgehlot/dsa-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1563-stone-game-v](https://github.com/ritikgehlot/dsa-practice/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ritikgehlot/dsa-practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -806,6 +807,7 @@
 | [1040-moving-stones-until-consecutive-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1040-moving-stones-until-consecutive-ii) |
 | [1044-longest-duplicate-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/1044-longest-duplicate-substring) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikgehlot/dsa-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1871-jump-game-vii](https://github.com/ritikgehlot/dsa-practice/tree/master/1871-jump-game-vii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ritikgehlot/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -1107,6 +1109,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1478-allocate-mailboxes](https://github.com/ritikgehlot/dsa-practice/tree/master/1478-allocate-mailboxes) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikgehlot/dsa-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ritikgehlot/dsa-practice/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
