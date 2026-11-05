@@ -212,6 +212,7 @@
 | [1478-allocate-mailboxes](https://github.com/ritikgehlot/dsa-practice/tree/master/1478-allocate-mailboxes) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/ritikgehlot/dsa-practice/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikgehlot/dsa-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1504-count-submatrices-with-all-ones](https://github.com/ritikgehlot/dsa-practice/tree/master/1504-count-submatrices-with-all-ones) |
 | [1563-stone-game-v](https://github.com/ritikgehlot/dsa-practice/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ritikgehlot/dsa-practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
@@ -1112,6 +1113,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ritikgehlot/dsa-practice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1494-parallel-courses-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1494-parallel-courses-ii) |
+| [1504-count-submatrices-with-all-ones](https://github.com/ritikgehlot/dsa-practice/tree/master/1504-count-submatrices-with-all-ones) |
 | [1510-stone-game-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/ritikgehlot/dsa-practice/tree/master/1563-stone-game-v) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -1462,6 +1464,7 @@
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ritikgehlot/dsa-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1504-count-submatrices-with-all-ones](https://github.com/ritikgehlot/dsa-practice/tree/master/1504-count-submatrices-with-all-ones) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ritikgehlot/dsa-practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ritikgehlot/dsa-practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ritikgehlot/dsa-practice/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -1608,6 +1611,7 @@
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ritikgehlot/dsa-practice/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1504-count-submatrices-with-all-ones](https://github.com/ritikgehlot/dsa-practice/tree/master/1504-count-submatrices-with-all-ones) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/ritikgehlot/dsa-practice/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -1631,6 +1635,7 @@
 | [0907-sum-of-subarray-minimums](https://github.com/ritikgehlot/dsa-practice/tree/master/0907-sum-of-subarray-minimums) |
 | [0975-odd-even-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0975-odd-even-jump) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/ritikgehlot/dsa-practice/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1504-count-submatrices-with-all-ones](https://github.com/ritikgehlot/dsa-practice/tree/master/1504-count-submatrices-with-all-ones) |
 ## Combinatorics
 |  |
 | ------- |
