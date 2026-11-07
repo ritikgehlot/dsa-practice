@@ -243,6 +243,7 @@
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1882-process-tasks-using-servers](https://github.com/ritikgehlot/dsa-practice/tree/master/1882-process-tasks-using-servers) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
+| [1955-count-number-of-special-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/1955-count-number-of-special-subsequences) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ritikgehlot/dsa-practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1982-find-array-given-subset-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/1982-find-array-given-subset-sums) |
@@ -1147,6 +1148,7 @@
 | [1824-minimum-sideway-jumps](https://github.com/ritikgehlot/dsa-practice/tree/master/1824-minimum-sideway-jumps) |
 | [1871-jump-game-vii](https://github.com/ritikgehlot/dsa-practice/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
+| [1955-count-number-of-special-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/1955-count-number-of-special-subsequences) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ritikgehlot/dsa-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/2318-number-of-distinct-roll-sequences) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/ritikgehlot/dsa-practice/tree/master/2320-count-number-of-ways-to-place-houses) |
