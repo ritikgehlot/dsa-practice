@@ -244,6 +244,7 @@
 | [1882-process-tasks-using-servers](https://github.com/ritikgehlot/dsa-practice/tree/master/1882-process-tasks-using-servers) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
 | [1955-count-number-of-special-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/1955-count-number-of-special-subsequences) |
+| [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/ritikgehlot/dsa-practice/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ritikgehlot/dsa-practice/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1982-find-array-given-subset-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/1982-find-array-given-subset-sums) |
@@ -1149,6 +1150,7 @@
 | [1871-jump-game-vii](https://github.com/ritikgehlot/dsa-practice/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1955-count-number-of-special-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/1955-count-number-of-special-subsequences) |
+| [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/ritikgehlot/dsa-practice/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ritikgehlot/dsa-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/2318-number-of-distinct-roll-sequences) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/ritikgehlot/dsa-practice/tree/master/2320-count-number-of-ways-to-place-houses) |
@@ -1691,6 +1693,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ritikgehlot/dsa-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1871-jump-game-vii](https://github.com/ritikgehlot/dsa-practice/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
+| [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/ritikgehlot/dsa-practice/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
