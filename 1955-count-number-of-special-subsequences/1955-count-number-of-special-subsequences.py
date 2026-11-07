@@ -1,0 +1,15 @@
+class Solution:
+    def countSpecialSubsequences(self, nums: list[int]) -> int:
+        MOD = 10**9 + 7
+
+        dp0 = dp1 = dp2 = 0
+
+        for x in nums:
+            if x == 0:
+                dp0 = (2 * dp0 + 1) % MOD
+            elif x == 1:
+                dp1 = (2 * dp1 + dp0) % MOD
+            else:
+                dp2 = (2 * dp2 + dp1) % MOD
+
+        return dp2
