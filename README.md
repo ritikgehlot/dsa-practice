@@ -766,6 +766,7 @@
 | [1871-jump-game-vii](https://github.com/ritikgehlot/dsa-practice/tree/master/1871-jump-game-vii) |
 | [1927-sum-game](https://github.com/ritikgehlot/dsa-practice/tree/master/1927-sum-game) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
+| [1977-number-of-ways-to-separate-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/ritikgehlot/dsa-practice/tree/master/2409-count-days-spent-together) |
 | [2833-furthest-point-from-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/2833-furthest-point-from-origin) |
@@ -1153,6 +1154,7 @@
 | [1955-count-number-of-special-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/1955-count-number-of-special-subsequences) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/ritikgehlot/dsa-practice/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/ritikgehlot/dsa-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [1977-number-of-ways-to-separate-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ritikgehlot/dsa-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/2318-number-of-distinct-roll-sequences) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/ritikgehlot/dsa-practice/tree/master/2320-count-number-of-ways-to-place-houses) |
@@ -1696,6 +1698,7 @@
 | [1871-jump-game-vii](https://github.com/ritikgehlot/dsa-practice/tree/master/1871-jump-game-vii) |
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/ritikgehlot/dsa-practice/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
+| [1977-number-of-ways-to-separate-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3653-xor-after-range-multiplication-queries-i) |
