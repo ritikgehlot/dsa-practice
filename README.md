@@ -927,6 +927,7 @@
 | [1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/ritikgehlot/dsa-practice/tree/master/1489-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1494-parallel-courses-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1494-parallel-courses-ii) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ritikgehlot/dsa-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/ritikgehlot/dsa-practice/tree/master/3310-remove-methods-from-project) |
@@ -1151,6 +1152,7 @@
 | [1872-stone-game-viii](https://github.com/ritikgehlot/dsa-practice/tree/master/1872-stone-game-viii) |
 | [1955-count-number-of-special-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/1955-count-number-of-special-subsequences) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/ritikgehlot/dsa-practice/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ritikgehlot/dsa-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ritikgehlot/dsa-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2318-number-of-distinct-roll-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/2318-number-of-distinct-roll-sequences) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/ritikgehlot/dsa-practice/tree/master/2320-count-number-of-ways-to-place-houses) |
@@ -1978,6 +1980,7 @@
 | [0802-find-eventual-safe-states](https://github.com/ritikgehlot/dsa-practice/tree/master/0802-find-eventual-safe-states) |
 | [0913-cat-and-mouse](https://github.com/ritikgehlot/dsa-practice/tree/master/0913-cat-and-mouse) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ritikgehlot/dsa-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Directed Acyclic Graph
 |  |
@@ -2024,6 +2027,7 @@
 | [0399-evaluate-division](https://github.com/ritikgehlot/dsa-practice/tree/master/0399-evaluate-division) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ritikgehlot/dsa-practice/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ritikgehlot/dsa-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ritikgehlot/dsa-practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Kosaraju's Algorithm
 |  |
@@ -2205,6 +2209,7 @@
 |  |
 | ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/ritikgehlot/dsa-practice/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Mixed Knapsack
 |  |
 | ------- |
