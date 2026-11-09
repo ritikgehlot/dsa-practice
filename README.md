@@ -219,6 +219,7 @@
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/ritikgehlot/dsa-practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ritikgehlot/dsa-practice/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1595-minimum-cost-to-connect-two-groups-of-points](https://github.com/ritikgehlot/dsa-practice/tree/master/1595-minimum-cost-to-connect-two-groups-of-points) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ritikgehlot/dsa-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1626-best-team-with-no-conflicts](https://github.com/ritikgehlot/dsa-practice/tree/master/1626-best-team-with-no-conflicts) |
 | [1639-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ritikgehlot/dsa-practice/tree/master/1639-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1643-kth-smallest-instructions](https://github.com/ritikgehlot/dsa-practice/tree/master/1643-kth-smallest-instructions) |
@@ -1509,6 +1510,7 @@
 | [1383-maximum-performance-of-a-team](https://github.com/ritikgehlot/dsa-practice/tree/master/1383-maximum-performance-of-a-team) |
 | [1424-diagonal-traverse-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/1424-diagonal-traverse-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ritikgehlot/dsa-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/ritikgehlot/dsa-practice/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
 | [1882-process-tasks-using-servers](https://github.com/ritikgehlot/dsa-practice/tree/master/1882-process-tasks-using-servers) |
@@ -1591,6 +1593,7 @@
 | [0592-fraction-addition-and-subtraction](https://github.com/ritikgehlot/dsa-practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0832-flipping-an-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ritikgehlot/dsa-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/ritikgehlot/dsa-practice/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -1883,6 +1886,7 @@
 | [0975-odd-even-jump](https://github.com/ritikgehlot/dsa-practice/tree/master/0975-odd-even-jump) |
 | [1348-tweet-counts-per-frequency](https://github.com/ritikgehlot/dsa-practice/tree/master/1348-tweet-counts-per-frequency) |
 | [1418-display-table-of-food-orders-in-a-restaurant](https://github.com/ritikgehlot/dsa-practice/tree/master/1418-display-table-of-food-orders-in-a-restaurant) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ritikgehlot/dsa-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1649-create-sorted-array-through-instructions](https://github.com/ritikgehlot/dsa-practice/tree/master/1649-create-sorted-array-through-instructions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
