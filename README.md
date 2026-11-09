@@ -252,6 +252,7 @@
 | [1982-find-array-given-subset-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/1982-find-array-given-subset-sums) |
 | [1998-gcd-sort-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1998-gcd-sort-of-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2007-find-original-array-from-doubled-array) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ritikgehlot/dsa-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/ritikgehlot/dsa-practice/tree/master/2126-destroying-asteroids) |
@@ -1316,6 +1317,7 @@
 | [1291-sequential-digits](https://github.com/ritikgehlot/dsa-practice/tree/master/1291-sequential-digits) |
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/ritikgehlot/dsa-practice/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/ritikgehlot/dsa-practice/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ritikgehlot/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -1462,6 +1464,7 @@
 | [1799-maximize-score-after-n-operations](https://github.com/ritikgehlot/dsa-practice/tree/master/1799-maximize-score-after-n-operations) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/ritikgehlot/dsa-practice/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -1582,6 +1585,7 @@
 | [1799-maximize-score-after-n-operations](https://github.com/ritikgehlot/dsa-practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/ritikgehlot/dsa-practice/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikgehlot/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
