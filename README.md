@@ -253,6 +253,7 @@
 | [1998-gcd-sort-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1998-gcd-sort-of-an-array) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ritikgehlot/dsa-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/ritikgehlot/dsa-practice/tree/master/2126-destroying-asteroids) |
@@ -775,6 +776,7 @@
 | [1977-number-of-ways-to-separate-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/1977-number-of-ways-to-separate-numbers) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/ritikgehlot/dsa-practice/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/ritikgehlot/dsa-practice/tree/master/2409-count-days-spent-together) |
 | [2833-furthest-point-from-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/2833-furthest-point-from-origin) |
@@ -1469,6 +1471,7 @@
 | [2014-longest-subsequence-repeated-k-times](https://github.com/ritikgehlot/dsa-practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/ritikgehlot/dsa-practice/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -1611,6 +1614,7 @@
 | [0832-flipping-an-image](https://github.com/ritikgehlot/dsa-practice/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ritikgehlot/dsa-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/ritikgehlot/dsa-practice/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
