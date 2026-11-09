@@ -259,6 +259,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2126-destroying-asteroids](https://github.com/ritikgehlot/dsa-practice/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ritikgehlot/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/ritikgehlot/dsa-practice/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ritikgehlot/dsa-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2321-maximum-score-of-spliced-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2321-maximum-score-of-spliced-array) |
@@ -1325,6 +1326,7 @@
 | [2014-longest-subsequence-repeated-k-times](https://github.com/ritikgehlot/dsa-practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2048-next-greater-numerically-balanced-number](https://github.com/ritikgehlot/dsa-practice/tree/master/2048-next-greater-numerically-balanced-number) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/ritikgehlot/dsa-practice/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ritikgehlot/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -1475,6 +1477,7 @@
 | [2048-next-greater-numerically-balanced-number](https://github.com/ritikgehlot/dsa-practice/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/ritikgehlot/dsa-practice/tree/master/2151-maximum-good-people-based-on-statements) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -1596,6 +1599,7 @@
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/ritikgehlot/dsa-practice/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2151-maximum-good-people-based-on-statements](https://github.com/ritikgehlot/dsa-practice/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikgehlot/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
