@@ -405,6 +405,7 @@
 | [1982-find-array-given-subset-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/1982-find-array-given-subset-sums) |
 | [2007-find-original-array-from-doubled-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2007-find-original-array-from-doubled-array) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/ritikgehlot/dsa-practice/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/ritikgehlot/dsa-practice/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
 | [2540-minimum-common-value](https://github.com/ritikgehlot/dsa-practice/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -531,6 +532,7 @@
 | [1927-sum-game](https://github.com/ritikgehlot/dsa-practice/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1998-gcd-sort-of-an-array) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/ritikgehlot/dsa-practice/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2409-count-days-spent-together](https://github.com/ritikgehlot/dsa-practice/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1318,6 +1320,7 @@
 | [1638-count-substrings-that-differ-by-one-character](https://github.com/ritikgehlot/dsa-practice/tree/master/1638-count-substrings-that-differ-by-one-character) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/ritikgehlot/dsa-practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/ritikgehlot/dsa-practice/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ritikgehlot/dsa-practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ritikgehlot/dsa-practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -1465,6 +1468,7 @@
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/ritikgehlot/dsa-practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/ritikgehlot/dsa-practice/tree/master/2048-next-greater-numerically-balanced-number) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -1699,6 +1703,7 @@
 | [1787-make-the-xor-of-all-segments-equal-to-zero](https://github.com/ritikgehlot/dsa-practice/tree/master/1787-make-the-xor-of-all-segments-equal-to-zero) |
 | [1982-find-array-given-subset-sums](https://github.com/ritikgehlot/dsa-practice/tree/master/1982-find-array-given-subset-sums) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/ritikgehlot/dsa-practice/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2048-next-greater-numerically-balanced-number](https://github.com/ritikgehlot/dsa-practice/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2833-furthest-point-from-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
