@@ -1189,6 +1189,7 @@
 | [2463-minimum-total-distance-traveled](https://github.com/ritikgehlot/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ritikgehlot/dsa-practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2560-house-robber-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/2560-house-robber-iv) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ritikgehlot/dsa-practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ritikgehlot/dsa-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1410,6 +1411,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ritikgehlot/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2560-house-robber-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/2560-house-robber-iv) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ritikgehlot/dsa-practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikgehlot/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1610,6 +1612,7 @@
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/ritikgehlot/dsa-practice/tree/master/2151-maximum-good-people-based-on-statements) |
+| [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ritikgehlot/dsa-practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikgehlot/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
