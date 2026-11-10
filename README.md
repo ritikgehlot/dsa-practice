@@ -271,6 +271,7 @@
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ritikgehlot/dsa-practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2560-house-robber-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/2560-house-robber-iv) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2572-count-the-number-of-square-free-subsets) |
+| [2573-find-the-string-with-lcp](https://github.com/ritikgehlot/dsa-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/ritikgehlot/dsa-practice/tree/master/2747-count-zero-request-servers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ritikgehlot/dsa-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -787,6 +788,7 @@
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/ritikgehlot/dsa-practice/tree/master/2409-count-days-spent-together) |
+| [2573-find-the-string-with-lcp](https://github.com/ritikgehlot/dsa-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ritikgehlot/dsa-practice/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -931,6 +933,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ritikgehlot/dsa-practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1998-gcd-sort-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1998-gcd-sort-of-an-array) |
 | [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
+| [2573-find-the-string-with-lcp](https://github.com/ritikgehlot/dsa-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2685-count-the-number-of-complete-components](https://github.com/ritikgehlot/dsa-practice/tree/master/2685-count-the-number-of-complete-components) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ritikgehlot/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
@@ -1193,6 +1196,7 @@
 | [2560-house-robber-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/2560-house-robber-iv) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ritikgehlot/dsa-practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2572-count-the-number-of-square-free-subsets) |
+| [2573-find-the-string-with-lcp](https://github.com/ritikgehlot/dsa-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ritikgehlot/dsa-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1415,6 +1419,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2560-house-robber-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/2560-house-robber-iv) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ritikgehlot/dsa-practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2573-find-the-string-with-lcp](https://github.com/ritikgehlot/dsa-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikgehlot/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1687,6 +1692,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ritikgehlot/dsa-practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ritikgehlot/dsa-practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
+| [2573-find-the-string-with-lcp](https://github.com/ritikgehlot/dsa-practice/tree/master/2573-find-the-string-with-lcp) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ritikgehlot/dsa-practice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ritikgehlot/dsa-practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/ritikgehlot/dsa-practice/tree/master/3665-twisted-mirror-path-count) |
