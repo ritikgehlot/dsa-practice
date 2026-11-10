@@ -270,6 +270,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ritikgehlot/dsa-practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2560-house-robber-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/2560-house-robber-iv) |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/ritikgehlot/dsa-practice/tree/master/2747-count-zero-request-servers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ritikgehlot/dsa-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -541,6 +542,7 @@
 | [2048-next-greater-numerically-balanced-number](https://github.com/ritikgehlot/dsa-practice/tree/master/2048-next-greater-numerically-balanced-number) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2409-count-days-spent-together](https://github.com/ritikgehlot/dsa-practice/tree/master/2409-count-days-spent-together) |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
@@ -1190,6 +1192,7 @@
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ritikgehlot/dsa-practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2560-house-robber-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/2560-house-robber-iv) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ritikgehlot/dsa-practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ritikgehlot/dsa-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1445,6 +1448,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1998-gcd-sort-of-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/1998-gcd-sort-of-an-array) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/ritikgehlot/dsa-practice/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -1613,6 +1617,7 @@
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/ritikgehlot/dsa-practice/tree/master/2151-maximum-good-people-based-on-statements) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ritikgehlot/dsa-practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikgehlot/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -2079,6 +2084,7 @@
 | [1799-maximize-score-after-n-operations](https://github.com/ritikgehlot/dsa-practice/tree/master/1799-maximize-score-after-n-operations) |
 | [1815-maximum-number-of-groups-getting-fresh-donuts](https://github.com/ritikgehlot/dsa-practice/tree/master/1815-maximum-number-of-groups-getting-fresh-donuts) |
 | [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/ritikgehlot/dsa-practice/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+| [2572-count-the-number-of-square-free-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 ## Shortest Path
 |  |
 | ------- |
