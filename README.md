@@ -274,6 +274,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/ritikgehlot/dsa-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/ritikgehlot/dsa-practice/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2585-number-of-ways-to-earn-points](https://github.com/ritikgehlot/dsa-practice/tree/master/2585-number-of-ways-to-earn-points) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/ritikgehlot/dsa-practice/tree/master/2747-count-zero-request-servers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ritikgehlot/dsa-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -419,6 +420,7 @@
 | [2424-longest-uploaded-prefix](https://github.com/ritikgehlot/dsa-practice/tree/master/2424-longest-uploaded-prefix) |
 | [2540-minimum-common-value](https://github.com/ritikgehlot/dsa-practice/tree/master/2540-minimum-common-value) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/ritikgehlot/dsa-practice/tree/master/2581-count-number-of-possible-root-nodes) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/ritikgehlot/dsa-practice/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/ritikgehlot/dsa-practice/tree/master/2784-check-if-array-is-good) |
@@ -547,6 +549,7 @@
 | [2338-count-the-number-of-ideal-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2338-count-the-number-of-ideal-arrays) |
 | [2409-count-days-spent-together](https://github.com/ritikgehlot/dsa-practice/tree/master/2409-count-days-spent-together) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2572-count-the-number-of-square-free-subsets) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
@@ -1203,6 +1206,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/ritikgehlot/dsa-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/ritikgehlot/dsa-practice/tree/master/2581-count-number-of-possible-root-nodes) |
 | [2585-number-of-ways-to-earn-points](https://github.com/ritikgehlot/dsa-practice/tree/master/2585-number-of-ways-to-earn-points) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ritikgehlot/dsa-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1321,6 +1325,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ritikgehlot/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/ritikgehlot/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2747-count-zero-request-servers](https://github.com/ritikgehlot/dsa-practice/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/ritikgehlot/dsa-practice/tree/master/2784-check-if-array-is-good) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ritikgehlot/dsa-practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1505,6 +1510,7 @@
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/ritikgehlot/dsa-practice/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2151-maximum-good-people-based-on-statements](https://github.com/ritikgehlot/dsa-practice/tree/master/2151-maximum-good-people-based-on-statements) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -1726,6 +1732,7 @@
 | [1641-count-sorted-vowel-strings](https://github.com/ritikgehlot/dsa-practice/tree/master/1641-count-sorted-vowel-strings) |
 | [1643-kth-smallest-instructions](https://github.com/ritikgehlot/dsa-practice/tree/master/1643-kth-smallest-instructions) |
 | [2338-count-the-number-of-ideal-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2338-count-the-number-of-ideal-arrays) |
+| [2597-the-number-of-beautiful-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/ritikgehlot/dsa-practice/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ritikgehlot/dsa-practice/tree/master/3312-sorted-gcd-pair-queries) |
