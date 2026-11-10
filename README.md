@@ -273,6 +273,7 @@
 | [2572-count-the-number-of-square-free-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2573-find-the-string-with-lcp](https://github.com/ritikgehlot/dsa-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/ritikgehlot/dsa-practice/tree/master/2581-count-number-of-possible-root-nodes) |
+| [2585-number-of-ways-to-earn-points](https://github.com/ritikgehlot/dsa-practice/tree/master/2585-number-of-ways-to-earn-points) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ritikgehlot/dsa-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/ritikgehlot/dsa-practice/tree/master/2747-count-zero-request-servers) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ritikgehlot/dsa-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -1201,6 +1202,7 @@
 | [2572-count-the-number-of-square-free-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2573-find-the-string-with-lcp](https://github.com/ritikgehlot/dsa-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/ritikgehlot/dsa-practice/tree/master/2581-count-number-of-possible-root-nodes) |
+| [2585-number-of-ways-to-earn-points](https://github.com/ritikgehlot/dsa-practice/tree/master/2585-number-of-ways-to-earn-points) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/ritikgehlot/dsa-practice/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3251-find-the-count-of-monotonic-pairs-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3251-find-the-count-of-monotonic-pairs-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/ritikgehlot/dsa-practice/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -2069,6 +2071,7 @@
 | [0518-coin-change-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/0518-coin-change-ii) |
 | [0638-shopping-offers](https://github.com/ritikgehlot/dsa-practice/tree/master/0638-shopping-offers) |
 | [1774-closest-dessert-cost](https://github.com/ritikgehlot/dsa-practice/tree/master/1774-closest-dessert-cost) |
+| [2585-number-of-ways-to-earn-points](https://github.com/ritikgehlot/dsa-practice/tree/master/2585-number-of-ways-to-earn-points) |
 ## 0-1 Knapsack
 |  |
 | ------- |
@@ -2305,4 +2308,8 @@
 |  |
 | ------- |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/ritikgehlot/dsa-practice/tree/master/1483-kth-ancestor-of-a-tree-node) |
+## Multiple Knapsack
+|  |
+| ------- |
+| [2585-number-of-ways-to-earn-points](https://github.com/ritikgehlot/dsa-practice/tree/master/2585-number-of-ways-to-earn-points) |
 <!---LeetCode Topics End-->
