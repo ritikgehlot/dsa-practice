@@ -799,6 +799,7 @@
 | [2014-longest-subsequence-repeated-k-times](https://github.com/ritikgehlot/dsa-practice/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/ritikgehlot/dsa-practice/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ritikgehlot/dsa-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/ritikgehlot/dsa-practice/tree/master/2409-count-days-spent-together) |
 | [2573-find-the-string-with-lcp](https://github.com/ritikgehlot/dsa-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2833-furthest-point-from-origin](https://github.com/ritikgehlot/dsa-practice/tree/master/2833-furthest-point-from-origin) |
@@ -1668,6 +1669,7 @@
 | [1260-shift-2d-grid](https://github.com/ritikgehlot/dsa-practice/tree/master/1260-shift-2d-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/ritikgehlot/dsa-practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/ritikgehlot/dsa-practice/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ritikgehlot/dsa-practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2327-number-of-people-aware-of-a-secret](https://github.com/ritikgehlot/dsa-practice/tree/master/2327-number-of-people-aware-of-a-secret) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
