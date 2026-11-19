@@ -271,6 +271,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/ritikgehlot/dsa-practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip](https://github.com/ritikgehlot/dsa-practice/tree/master/2556-disconnect-path-in-a-binary-matrix-by-at-most-one-flip) |
 | [2560-house-robber-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/2560-house-robber-iv) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ritikgehlot/dsa-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2572-count-the-number-of-square-free-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2572-count-the-number-of-square-free-subsets) |
 | [2573-find-the-string-with-lcp](https://github.com/ritikgehlot/dsa-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2581-count-number-of-possible-root-nodes](https://github.com/ritikgehlot/dsa-practice/tree/master/2581-count-number-of-possible-root-nodes) |
@@ -1339,6 +1340,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ritikgehlot/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2463-minimum-total-distance-traveled](https://github.com/ritikgehlot/dsa-practice/tree/master/2463-minimum-total-distance-traveled) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ritikgehlot/dsa-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2597-the-number-of-beautiful-subsets](https://github.com/ritikgehlot/dsa-practice/tree/master/2597-the-number-of-beautiful-subsets) |
 | [2747-count-zero-request-servers](https://github.com/ritikgehlot/dsa-practice/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/ritikgehlot/dsa-practice/tree/master/2784-check-if-array-is-good) |
@@ -1443,6 +1445,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ritikgehlot/dsa-practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ritikgehlot/dsa-practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2560-house-robber-iv](https://github.com/ritikgehlot/dsa-practice/tree/master/2560-house-robber-iv) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/ritikgehlot/dsa-practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/ritikgehlot/dsa-practice/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [2573-find-the-string-with-lcp](https://github.com/ritikgehlot/dsa-practice/tree/master/2573-find-the-string-with-lcp) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/ritikgehlot/dsa-practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
