@@ -338,6 +338,7 @@
 | [3886-sum-of-sortable-integers](https://github.com/ritikgehlot/dsa-practice/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/ritikgehlot/dsa-practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -455,6 +456,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/ritikgehlot/dsa-practice/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/ritikgehlot/dsa-practice/tree/master/3731-find-missing-elements) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/ritikgehlot/dsa-practice/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3934-smallest-unique-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/3934-smallest-unique-subarray) |
 ## Linked List
 |  |
 | ------- |
@@ -666,6 +668,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ritikgehlot/dsa-practice/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ritikgehlot/dsa-practice/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3934-smallest-unique-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1959,6 +1962,7 @@
 | [0187-repeated-dna-sequences](https://github.com/ritikgehlot/dsa-practice/tree/master/0187-repeated-dna-sequences) |
 | [1044-longest-duplicate-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/1044-longest-duplicate-substring) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/ritikgehlot/dsa-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
+| [3934-smallest-unique-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
@@ -1967,6 +1971,7 @@
 | [1044-longest-duplicate-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/1044-longest-duplicate-substring) |
 | [1147-longest-chunked-palindrome-decomposition](https://github.com/ritikgehlot/dsa-practice/tree/master/1147-longest-chunked-palindrome-decomposition) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/ritikgehlot/dsa-practice/tree/master/1948-delete-duplicate-folders-in-system) |
+| [3934-smallest-unique-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/3934-smallest-unique-subarray) |
 ## Game Theory
 |  |
 | ------- |
@@ -2272,6 +2277,7 @@
 |  |
 | ------- |
 | [1044-longest-duplicate-substring](https://github.com/ritikgehlot/dsa-practice/tree/master/1044-longest-duplicate-substring) |
+| [3934-smallest-unique-subarray](https://github.com/ritikgehlot/dsa-practice/tree/master/3934-smallest-unique-subarray) |
 ## Suffix Automaton
 |  |
 | ------- |
